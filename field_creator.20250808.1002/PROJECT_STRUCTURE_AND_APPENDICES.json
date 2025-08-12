@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "generated": "2025-08-08 09:54:04",
+    "root": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator",
+    "large_threshold_bytes": 51200,
+    "large_threshold_kb": 50.0,
+    "large_mode": "ask",
+    "excluded_directory_rules": {
+      "virtualenv_regex": "^\\.?venv.*$",
+      "name_set": [
+        ".cache",
+        ".eggs",
+        ".git",
+        ".idea",
+        ".mypy_cache",
+        ".pytest_cache",
+        ".ruff_cache",
+        ".tox",
+        ".vscode",
+        "__pycache__",
+        "node_modules"
+      ]
+    },
+    "summary": {
+      "directories": 1,
+      "files": 10,
+      "appendices": 3,
+      "appendices_total_bytes": 21613,
+      "exclusions": 7
+    }
+  },
+  "structure": {
+    "type": "directory",
+    "name": "field_creator",
+    "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator",
+    "children": [
+      {
+        "type": "file",
+        "name": ".DS_Store",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/.DS_Store",
+        "size_bytes": 6148
+      },
+      {
+        "type": "file",
+        "name": "caffeinate.txt",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/caffeinate.txt",
+        "size_bytes": 39
+      },
+      {
+        "type": "file",
+        "name": "classified_emails.json",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/classified_emails.json",
+        "size_bytes": 6242194
+      },
+      {
+        "type": "file",
+        "name": "extracted_schema.json",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.json",
+        "size_bytes": 2639
+      },
+      {
+        "type": "file",
+        "name": "extracted_schema.Short.json",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.Short.json",
+        "size_bytes": 10586
+      },
+      {
+        "type": "file",
+        "name": "failed_llm_responses.log",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/failed_llm_responses.log",
+        "size_bytes": 1398788
+      },
+      {
+        "type": "file",
+        "name": "field_creator.log",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.log",
+        "size_bytes": 82541
+      },
+      {
+        "type": "file",
+        "name": "field_creator.py",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.py",
+        "size_bytes": 8619
+      },
+      {
+        "type": "file",
+        "name": "field_extraction_wip.json",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_extraction_wip.json",
+        "size_bytes": 221049
+      },
+      {
+        "type": "file",
+        "name": "project_snapshot.py",
+        "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/project_snapshot.py",
+        "size_bytes": 12955
+      }
+    ]
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": ".DS_Store",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/.DS_Store",
+      "size_bytes": 6148,
+      "rel_path": ".DS_Store",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "caffeinate.txt",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/caffeinate.txt",
+      "size_bytes": 39,
+      "rel_path": "caffeinate.txt",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "classified_emails.json",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/classified_emails.json",
+      "size_bytes": 6242194,
+      "rel_path": "classified_emails.json",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "extracted_schema.json",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.json",
+      "size_bytes": 2639,
+      "rel_path": "extracted_schema.json",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "extracted_schema.Short.json",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.Short.json",
+      "size_bytes": 10586,
+      "rel_path": "extracted_schema.Short.json",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "failed_llm_responses.log",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/failed_llm_responses.log",
+      "size_bytes": 1398788,
+      "rel_path": "failed_llm_responses.log",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "field_creator.log",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.log",
+      "size_bytes": 82541,
+      "rel_path": "field_creator.log",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "field_creator.py",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.py",
+      "size_bytes": 8619,
+      "rel_path": "field_creator.py",
+      "language": "python"
+    },
+    {
+      "type": "file",
+      "name": "field_extraction_wip.json",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_extraction_wip.json",
+      "size_bytes": 221049,
+      "rel_path": "field_extraction_wip.json",
+      "language": ""
+    },
+    {
+      "type": "file",
+      "name": "project_snapshot.py",
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/project_snapshot.py",
+      "size_bytes": 12955,
+      "rel_path": "project_snapshot.py",
+      "language": "python"
+    }
+  ],
+  "appendices": [
+    {
+      "path": "caffeinate.txt",
+      "abs_path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/caffeinate.txt",
+      "size_bytes": 39,
+      "language": "",
+      "encoding": "utf-8",
+      "sha256": "04eddb1325364105be957930a81c04006cb6ea27890e0625db34c7d4bfc3a928",
+      "content": "caffeinate -i python3 field_creator.py\n"
+    },
+    {
+      "path": "field_creator.py",
+      "abs_path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.py",
+      "size_bytes": 8619,
+      "language": "python",
+      "encoding": "utf-8",
+      "sha256": "9e4e555444c49b6bbc2ff13435fa90136681d940bdf4d87e7f5e751164eae3f4",
+      "content": "#!/usr/bin/env python3\n\nimport json, logging, re, requests\nfrom collections import defaultdict\nfrom pathlib import Path\nfrom tqdm import tqdm\nfrom datetime import datetime\n\n# ────────────── Config ─────────────\nINPUT_FILE           = \"classified_emails.json\"\nOUTPUT_FILE          = \"extracted_schema.json\"\nWIP_FILE             = \"field_extraction_wip.json\"\nMAX_FIELDS_PER_CLASS = 10\nMAX_EMAILS           = 0\nMAX_RETRIES          = 5\nOLLAMA_HOST          = \"http://localhost:11434\"\nOLLAMA_MODEL         = \"mistral-nemo\"\nLOG_FAILED_LLM_RESPONSES = True\nFAILED_LOG_PATH      = \"failed_llm_responses.log\"\n\n# ────────────── Logging ─────────────\nlogging.basicConfig(\n    filename=\"field_creator.log\",\n    level=logging.INFO,\n    format=\"%(asctime)s [%(levelname)s] %(message)s\",\n)\n\n# ────────────── Ollama API ─────────────\ndef query_ollama(prompt: str) -> str:\n    try:\n        res = requests.post(\n            f\"{OLLAMA_HOST}/api/generate\",\n            json={\"model\": OLLAMA_MODEL, \"prompt\": prompt, \"stream\": False},\n            timeout=60\n        )\n        res.raise_for_status()\n        return res.json()[\"response\"]\n    except requests.RequestException as e:\n        logging.error(\"Ollama API error: %s\", e)\n        raise\n\n# ────────────── Input Parser ─────────────\ndef normalize_input(data):\n    if isinstance(data, dict):\n        return data\n    if isinstance(data, list):\n        out = defaultdict(list)\n        for item in data:\n            klass = item.get(\"classification\") or item.get(\"category\")\n            text  = item.get(\"clean_text\")\n            if klass and text:\n                out[klass].append(text)\n            else:\n                logging.warning(\"Skipping malformed item: %s\", item)\n        return dict(out)\n    raise TypeError(\"Invalid input format\")\n\n# ────────────── Field Extraction ─────────────\nFIELD_PROMPT_TEMPLATE = \"\"\"\nExtract up to 10 key-value fields as raw JSON from the following email.\nOnly include meaningful, business-relevant fields.\nDo NOT include any markdown, explanation, or non-JSON output.\n\nEMAIL:\n\\\"\\\"\\\"\n{email}\n\\\"\\\"\\\"\n\"\"\"\n\ndef extract_fields(email_text: str) -> dict:\n    prompt = FIELD_PROMPT_TEMPLATE.format(email=email_text)\n\n    for attempt in range(1, MAX_RETRIES + 1):\n        try:\n            raw = query_ollama(prompt)\n\n            raw = re.sub(r\"^```json|```$\", \"\", raw.strip(), flags=re.I).strip()\n            raw = raw.replace(\"\\\\n\", \" \").replace(\"\\\\t\", \" \").strip()\n            raw = re.sub(r\",\\s*([}\\]])\", r\"\\1\", raw)\n\n            try:\n                parsed = json.loads(raw)\n            except json.JSONDecodeError:\n                logging.warning(\"Attempt %d: JSON parse failed, using regex fallback.\", attempt)\n                pairs = re.findall(r'\"([^\"]+)\"\\s*:\\s*\"([^\"]+)\"', raw)\n                parsed = dict(pairs)\n\n            if isinstance(parsed, dict) and parsed:\n                cleaned = {k.strip(): v.strip()\n                           for k, v in parsed.items()\n                           if isinstance(k, str) and isinstance(v, str)}\n                logging.info(\"Recovered %d fields on attempt %d.\", len(cleaned), attempt)\n                return cleaned\n\n        except Exception as exc:\n            logging.warning(\"Attempt %d failed: %s\", attempt, exc)\n\n    fallback = {\"raw_first_line\": email_text.splitlines()[0][:120].strip()}\n    logging.error(\"All attempts failed. Using fallback.\")\n\n    if LOG_FAILED_LLM_RESPONSES:\n        with open(FAILED_LOG_PATH, \"a\", encoding=\"utf-8\") as f:\n            f.write(f\"\\n\\n--- Failed field extraction at {datetime.now().isoformat()} ---\\n\")\n            f.write(prompt + \"\\n\\n--- Raw response ---\\n\")\n            f.write(raw + \"\\n\")\n\n    return fallback\n\n# ────────────── Aggregation & Resume ─────────────\ndef collect_raw_fields(emails_by_class):\n    obs = defaultdict(list)\n\n    if Path(WIP_FILE).exists():\n        obs.update(json.loads(Path(WIP_FILE).read_text()))\n        logging.info(\"Loaded existing WIP state with %d classifications\", len(obs))\n\n    total_classes = len(emails_by_class)\n\n    for idx, (klass, emails) in enumerate(emails_by_class.items(), start=1):\n        if klass in obs:\n            logging.info(\"Skipping %s (already processed)\", klass)\n            continue\n\n        subset = emails[:MAX_EMAILS] if MAX_EMAILS else emails\n        bar_desc = f\"[{idx}/{total_classes}] {klass:>20}\"\n        logging.info(\"Processing %d/%d – %s (%d emails)\",\n                     idx, total_classes, klass, len(subset))\n\n        obs[klass] = []\n        for txt in tqdm(subset, desc=bar_desc, unit=\"email\"):\n            obs[klass].append(extract_fields(txt))\n\n        # Save progress to WIP file\n        Path(WIP_FILE).write_text(json.dumps(obs, indent=2))\n        logging.info(\"Saved WIP after %s\", klass)\n\n    return obs\n\ndef summarise_usage(field_dicts):\n    summary = defaultdict(lambda: {\"count\": 0, \"examples\": set()})\n    for fd in field_dicts:\n        for k, v in fd.items():\n            summary[k][\"count\"] += 1\n            if len(summary[k][\"examples\"]) < 3:\n                summary[k][\"examples\"].add(v)\n    for meta in summary.values():\n        meta[\"examples\"] = list(meta[\"examples\"])\n    return dict(summary)\n\n# ────────────── LLM Schema Description ─────────────\nTOP_FIELD_PROMPT = \"\"\"\nYou are designing a data schema for emails of type \"{klass}\".\nBelow is a dictionary of field names, how many times each occurred, and sample values.\n\nSelect the {n} most important fields and write a 50–75 word description for each.\nIf multiple fields are semantically equivalent (e.g., 'order_id', 'Order Number', 'reference'), combine them into one field using a consistent, readable name.\nDo not list duplicates. Base grouping on meaning, not formatting.\n\nRespond as a JSON list like:\n[\n  {{ \"name\": \"...\", \"description\": \"...\" }},\n  ...\n]\nNO markdown, no preamble – just raw JSON.\n\nINPUT:\n{summary}\n\"\"\"\n\ndef select_top_fields(summary, klass):\n    prompt = TOP_FIELD_PROMPT.format(\n        klass=klass,\n        n=MAX_FIELDS_PER_CLASS,\n        summary=json.dumps(summary, indent=2)\n    )\n\n    for attempt in range(1, MAX_RETRIES + 1):\n        try:\n            resp = query_ollama(prompt)\n            raw = re.sub(r\"^```json|```$\", \"\", resp.strip(), flags=re.I).strip()\n            data = json.loads(raw)\n\n            if isinstance(data, list):\n                logging.info(\"✅ Top fields selected for '%s' on attempt %d\", klass, attempt)\n                return data\n\n        except Exception as e:\n            logging.warning(\"Attempt %d: Top-field selection failed for '%s': %s\", attempt, klass, e)\n\n            if LOG_FAILED_LLM_RESPONSES:\n                with open(FAILED_LOG_PATH, \"a\", encoding=\"utf-8\") as f:\n                    f.write(f\"\\n\\n--- Failed schema response for {klass} (attempt {attempt}) at {datetime.now().isoformat()} ---\\n\")\n                    f.write(prompt + \"\\n\\n--- Raw response ---\\n\")\n                    f.write(resp + \"\\n\")\n\n    logging.error(\"❌ All attempts failed to select top fields for '%s'. Returning empty list.\", klass)\n    return []\n\ndef shared_field_names(per_class):\n    sets = [set(f[\"name\"] for f in lst) for lst in per_class.values() if lst]\n    return set.intersection(*sets) if sets else set()\n\n# ────────────── Main Pipeline ─────────────\ndef main():\n    emails = normalize_input(json.loads(Path(INPUT_FILE).read_text()))\n    raw    = collect_raw_fields(emails)\n\n    per_class = {}\n    for klass, dicts in raw.items():\n        top = select_top_fields(summarise_usage(dicts), klass)\n        per_class[klass] = top\n\n        Path(OUTPUT_FILE).write_text(json.dumps({\"classifications\": per_class}, indent=2))\n        logging.info(\"Wrote schema so far (after %s)\", klass)\n\n    shared = shared_field_names(per_class)\n\n    final = {\n        \"shared_fields\": [],\n        \"classifications\": {}\n    }\n    for klass, fields in per_class.items():\n        for f in fields:\n            if f[\"name\"] in shared:\n                final[\"shared_fields\"].append(f)\n            else:\n                final[\"classifications\"].setdefault(klass, []).append(f)\n\n    Path(OUTPUT_FILE).write_text(json.dumps(final, indent=2))\n    logging.info(\"✅ Final schema written to %s\", OUTPUT_FILE)\n\nif __name__ == \"__main__\":\n    main()\n"
+    },
+    {
+      "path": "project_snapshot.py",
+      "abs_path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/project_snapshot.py",
+      "size_bytes": 12955,
+      "language": "python",
+      "encoding": "utf-8",
+      "sha256": "ce45fba56557980913eb6f5ee6922447f7779878a22e841343b1ff28285e9773",
+      "content": "#!/usr/bin/env python3\n\"\"\"\nJSON exporter for project structure + appendices (for GPT coding agents)\n\nUpgrades:\n- Adds `exclusions`: [{path, rel_path, reason}] explaining why a file wasn't appended.\n- Each `files` entry includes `rel_path` and `language`.\n- Each appendix entry includes `sha256` and `encoding`.\n- Meta echoes `large_threshold_kb` (as well as bytes).\n- Always excludes junk dirs (venv/.venv/venv*, .git, node_modules, __pycache__, etc.).\n- .env-like files are included (no redaction).\n- Appendices include TEXT files only, excluding .json and .log (by extension).\n- \"Large\" prompt threshold is set in **kB** via --large-kb (bytes fallback via --max-size).\n\"\"\"\n\nimport argparse\nimport datetime as dt\nimport hashlib\nimport json\nimport os\nimport re\nimport sys\nfrom pathlib import Path\nfrom typing import Iterable, Tuple, Dict, Any, Optional\n\n# ---- Config ----\n\nAPPENDIX_EXCLUDE_EXTS = {\".json\", \".log\"}  # excluded from appendices; still listed in structure\nDEFAULT_MAX_SIZE = 5 * 1024  # 5 KiB (bytes), overridden by --large-kb\n\nALWAYS_EXCLUDE_DIRS = {\n    \".git\", \"node_modules\", \"__pycache__\", \".pytest_cache\", \".mypy_cache\",\n    \".ruff_cache\", \".tox\", \".eggs\", \".cache\", \".idea\", \".vscode\",\n}\n\nEXT_TO_LANG = {\n    \".py\":\"python\",\".js\":\"javascript\",\".ts\":\"typescript\",\".tsx\":\"tsx\",\".jsx\":\"jsx\",\n    \".html\":\"html\",\".htm\":\"html\",\".css\":\"css\",\".scss\":\"scss\",\".md\":\"markdown\",\n    \".yml\":\"yaml\",\".yaml\":\"yaml\",\".toml\":\"toml\",\".ini\":\"ini\",\".cfg\":\"ini\",\n    \".sh\":\"bash\",\".zsh\":\"zsh\",\".bat\":\"bat\",\".ps1\":\"powershell\",\".sql\":\"sql\",\n    \".xml\":\"xml\",\".csv\":\"csv\",\".env\":\"\",\"txt\":\"\", \".txt\":\"\"\n}\n\n_VENV_NAME_RE = re.compile(r\"^\\.?venv.*$\", re.IGNORECASE)\n\ndef is_virtualenv_dir_name(name: str) -> bool:\n    return bool(_VENV_NAME_RE.match(name))\n\ndef is_junk_dir_name(name: str) -> bool:\n    lname = name.lower()\n    return lname in ALWAYS_EXCLUDE_DIRS or is_virtualenv_dir_name(name)\n\n# ---- Helpers ----\n\ndef is_probably_text(path: Path, sample_bytes: int = 8192) -> bool:\n    try:\n        with path.open(\"rb\") as f:\n            chunk = f.read(sample_bytes)\n        if b\"\\x00\" in chunk:\n            return False\n        ctrl = sum(b < 9 or (13 < b < 32) for b in chunk)\n        if chunk and (ctrl / len(chunk)) > 0.05:\n            return False\n        try:\n            chunk.decode(\"utf-8\", errors=\"strict\")\n            return True\n        except UnicodeDecodeError:\n            try:\n                chunk.decode(\"latin-1\")\n                return True\n            except UnicodeDecodeError:\n                return False\n    except Exception:\n        return False\n\ndef relpath_sorted_children(root: Path) -> Iterable[Path]:\n    try:\n        entries = list(root.iterdir())\n    except PermissionError:\n        return []\n    filtered = []\n    for p in entries:\n        try:\n            if p.is_dir() and is_junk_dir_name(p.name):\n                continue\n        except PermissionError:\n            pass\n        filtered.append(p)\n    filtered.sort(key=lambda p: (not p.is_dir(), p.name.lower()))\n    return filtered\n\ndef human_size(n: int) -> str:\n    orig = n\n    for unit in (\"B\",\"KB\",\"MB\",\"GB\",\"TB\"):\n        if n < 1024 or unit == \"TB\":\n            return f\"{orig} B\" if unit==\"B\" else f\"{orig/1024:.1f} {unit}\"\n        orig = n\n        n /= 1024.0\n\ndef infer_lang(ext: str) -> str:\n    return EXT_TO_LANG.get(ext.lower(), \"\")\n\ndef read_bytes(path: Path) -> Optional[bytes]:\n    try:\n        with path.open(\"rb\") as f:\n            return f.read()\n    except Exception:\n        return None\n\ndef decode_text(b: bytes) -> Tuple[str, str]:\n    \"\"\"\n    Return (text, encoding). Try utf-8 strict, then latin-1 strict, then utf-8 replace.\n    \"\"\"\n    try:\n        return b.decode(\"utf-8\", errors=\"strict\"), \"utf-8\"\n    except UnicodeDecodeError:\n        try:\n            return b.decode(\"latin-1\", errors=\"strict\"), \"latin-1\"\n        except UnicodeDecodeError:\n            return b.decode(\"utf-8\", errors=\"replace\"), \"utf-8 (replace)\"\n\ndef sha256_hex(b: bytes) -> str:\n    return hashlib.sha256(b).hexdigest()\n\n# ---- Core traversal ----\n\ndef build_tree_and_flat(\n    root: Path,\n    follow_symlinks: bool = False,\n) -> Tuple[Dict[str, Any], list[Dict[str, Any]], int, int]:\n    dir_count = 0\n    file_count = 0\n\n    def recurse_dir(d: Path) -> Dict[str, Any]:\n        nonlocal dir_count, file_count\n        node = {\"type\":\"directory\",\"name\":d.name,\"path\":str(d.resolve()),\"children\":[]}\n        dir_count += 1\n        for child in relpath_sorted_children(d):\n            try:\n                if child.is_dir():\n                    if child.is_symlink() and not follow_symlinks:\n                        node[\"children\"].append({\n                            \"type\":\"symlink_dir\",\"name\":child.name,\n                            \"path\":str(child.resolve()) if child.exists() else str(child),\n                        })\n                        continue\n                    node[\"children\"].append(recurse_dir(child))\n                elif child.is_file():\n                    try:\n                        size = child.stat().st_size\n                    except Exception:\n                        size = None\n                    node[\"children\"].append({\n                        \"type\":\"file\",\"name\":child.name,\n                        \"path\":str(child.resolve()),\n                        \"size_bytes\":size,\n                    })\n                    file_count += 1\n                else:\n                    node[\"children\"].append({\"type\":\"special\",\"name\":child.name,\"path\":str(child)})\n            except PermissionError:\n                node[\"children\"].append({\"type\":\"error\",\"name\":child.name,\"path\":str(child),\"error\":\"permission_denied\"})\n            except FileNotFoundError:\n                node[\"children\"].append({\"type\":\"error\",\"name\":child.name,\"path\":str(child),\"error\":\"not_found\"})\n        return node\n\n    tree = recurse_dir(root)\n\n    flat_files: list[Dict[str, Any]] = []\n    def collect_files(node: Dict[str, Any]):\n        if node.get(\"type\") == \"file\":\n            flat_files.append(node)\n            return\n        for c in node.get(\"children\", []):\n            collect_files(c)\n    collect_files(tree)\n    return tree, flat_files, dir_count, file_count\n\n# ---- Appendix decision (with reason) ----\n\ndef decide_appendix(path: Path, max_size: int, mode: str, out_path: Path) -> Tuple[bool, Optional[str], Optional[bytes]]:\n    \"\"\"\n    Returns (include, reason_if_excluded, raw_bytes_if_included_or_needed).\n    Reasons: 'self_output', 'excluded_ext', 'binary', 'large_skipped', 'other'\n    \"\"\"\n    # Skip the output file itself\n    if path.resolve() == out_path.resolve():\n        return (False, \"self_output\", None)\n\n    ext = path.suffix.lower()\n    if ext in APPENDIX_EXCLUDE_EXTS:\n        return (False, \"excluded_ext\", None)\n\n    if not is_probably_text(path):\n        return (False, \"binary\", None)\n\n    try:\n        size = path.stat().st_size\n    except Exception:\n        return (False, \"other\", None)\n\n    if size > max_size:\n        if mode == \"no\":\n            return (False, \"large_skipped\", None)\n        elif mode == \"ask\":\n            rel = path.relative_to(Path.cwd())\n            while True:\n                resp = input(\n                    f\"File '{rel}' is {human_size(size)} (> {max_size} bytes). \"\n                    \"Include in appendix? [y/N/a=all yes/n=all no] \"\n                ).strip().lower()\n                if resp in (\"y\",\"yes\"):\n                    break\n                if resp in (\"n\",\"no\",\"\"):\n                    return (False, \"large_skipped\", None)\n                if resp in (\"a\",\"all\",\"always\"):\n                    # Treat as yes for this file; (global mode change not persisted—intentional)\n                    break\n                if resp in (\"never\",\"nn\"):\n                    return (False, \"large_skipped\", None)\n                print(\"Please answer y, n, a (all yes), or 'never' (all no).\")\n\n    b = read_bytes(path)\n    if b is None:\n        return (False, \"other\", None)\n    return (True, None, b)\n\n# ---- Output ----\n\ndef write_report_json(\n    root: Path,\n    out_path: Path,\n    follow_symlinks: bool,\n    max_size: int,\n    large_mode: str,\n):\n    timestamp = dt.datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\n    tree, flat_files, dir_count, file_count = build_tree_and_flat(root, follow_symlinks=follow_symlinks)\n\n    appendices = []\n    exclusions = []\n    total_appendix_bytes = 0\n\n    files_sorted = sorted(flat_files, key=lambda f: f[\"path\"].lower())\n\n    for f in files_sorted:\n        p = Path(f[\"path\"])\n        if not p.is_file():\n            continue\n\n        include, reason, raw = decide_appendix(p, max_size=max_size, mode=large_mode, out_path=out_path)\n        rel = str(p.relative_to(root))\n\n        if include and raw is not None:\n            text, encoding = decode_text(raw)\n            size = None\n            try:\n                size = p.stat().st_size\n            except Exception:\n                pass\n            lang = infer_lang(p.suffix.lower())\n            appendices.append({\n                \"path\": rel,\n                \"abs_path\": str(p.resolve()),\n                \"size_bytes\": size,\n                \"language\": lang,\n                \"encoding\": encoding,\n                \"sha256\": sha256_hex(raw),\n                \"content\": text,\n            })\n            if size:\n                total_appendix_bytes += size\n        else:\n            exclusions.append({\n                \"path\": str(p.resolve()),\n                \"rel_path\": rel,\n                \"reason\": reason or \"other\",\n            })\n\n    # Enrich `files` entries with rel_path and language\n    enriched_files = []\n    for f in files_sorted:\n        p = Path(f[\"path\"])\n        enriched = dict(f)\n        try:\n            enriched[\"rel_path\"] = str(p.relative_to(root))\n        except Exception:\n            enriched[\"rel_path\"] = f[\"path\"]\n        enriched[\"language\"] = infer_lang(p.suffix.lower())\n        enriched_files.append(enriched)\n\n    data = {\n        \"meta\": {\n            \"generated\": timestamp,\n            \"root\": str(root.resolve()),\n            \"large_threshold_bytes\": max_size,\n            \"large_threshold_kb\": round(max_size / 1024, 2),\n            \"large_mode\": large_mode,  # 'ask' | 'yes' | 'no'\n            \"excluded_directory_rules\": {\n                \"virtualenv_regex\": r\"^\\.?venv.*$\",\n                \"name_set\": sorted(list(ALWAYS_EXCLUDE_DIRS)),\n            },\n            \"summary\": {\n                \"directories\": dir_count,\n                \"files\": file_count,\n                \"appendices\": len(appendices),\n                \"appendices_total_bytes\": total_appendix_bytes,\n                \"exclusions\": len(exclusions),\n            },\n        },\n        \"structure\": tree,          # nested directory tree\n        \"files\": enriched_files,    # flat list with rel_path + language\n        \"appendices\": appendices,   # included file contents + sha256 + encoding\n        \"exclusions\": exclusions,   # non-appended files with reasons\n    }\n\n    out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding=\"utf-8\")\n    print(f\"Wrote JSON report to: {out_path}\")\n\n# ---- CLI ----\n\ndef parse_args(argv=None):\n    p = argparse.ArgumentParser(\n        description=\"Export a recursive project structure and text-file appendices as JSON for GPT agents.\"\n    )\n    p.add_argument(\"-o\",\"--output\", default=\"PROJECT_STRUCTURE_AND_APPENDICES.json\",\n                   help=\"Output JSON filename (default: %(default)s)\")\n    p.add_argument(\"--large-kb\", type=int, default=None,\n                   help=\"Size threshold in kilobytes for prompting on large files.\")\n    p.add_argument(\"--max-size\", type=int, default=DEFAULT_MAX_SIZE,\n                   help=f\"Fallback threshold in bytes if --large-kb not provided (default: {DEFAULT_MAX_SIZE}).\")\n    p.add_argument(\"--follow-symlinks\", action=\"store_true\",\n                   help=\"Follow symlinked directories (off by default).\")\n    group = p.add_mutually_exclusive_group()\n    group.add_argument(\"--yes-large\", action=\"store_true\",\n                       help=\"Automatically include large files without prompting.\")\n    group.add_argument(\"--no-large\", action=\"store_true\",\n                       help=\"Automatically skip large files without prompting.\")\n    return p.parse_args(argv)\n\ndef main():\n    args = parse_args()\n    root = Path.cwd()\n    out_path = (root / args.output).resolve()\n\n    large_mode = \"ask\"\n    if args.yes_large:\n        large_mode = \"yes\"\n    elif args.no_large:\n        large_mode = \"no\"\n\n    max_size = args.max_size\n    if args.large_kb is not None:\n        max_size = int(args.large_kb) * 1024  # kB -> bytes\n\n    try:\n        write_report_json(\n            root=root,\n            out_path=out_path,\n            follow_symlinks=args.follow_symlinks,\n            max_size=max_size,\n            large_mode=large_mode,\n        )\n    except KeyboardInterrupt:\n        print(\"\\nAborted by user.\", file=sys.stderr)\n        sys.exit(130)\n\nif __name__ == \"__main__\":\n    main()\n"
+    }
+  ],
+  "exclusions": [
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/.DS_Store",
+      "rel_path": ".DS_Store",
+      "reason": "binary"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/classified_emails.json",
+      "rel_path": "classified_emails.json",
+      "reason": "excluded_ext"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.json",
+      "rel_path": "extracted_schema.json",
+      "reason": "excluded_ext"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/extracted_schema.Short.json",
+      "rel_path": "extracted_schema.Short.json",
+      "reason": "excluded_ext"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/failed_llm_responses.log",
+      "rel_path": "failed_llm_responses.log",
+      "reason": "excluded_ext"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_creator.log",
+      "rel_path": "field_creator.log",
+      "reason": "excluded_ext"
+    },
+    {
+      "path": "/Volumes/BaseHDD/python/20250727.StructureEmails/field_creator/field_extraction_wip.json",
+      "rel_path": "field_extraction_wip.json",
+      "reason": "excluded_ext"
+    }
+  ]
+}

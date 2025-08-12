@@ -1,0 +1,904 @@
+2025-07-27T11:33:25 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your NLG Trading Ltd receipt [#1325-5127]' | 
+2025-07-27T11:33:29 | SUCCESS  | retries=0  | label=review_request  | subject='NLG Airport Transfers  Feedback Request and Thanks' | 
+2025-07-27T11:33:33 | SUCCESS  | retries=0  | label=billing         | subject='Your new tax calculation from HMRC is ready' | 
+2025-07-27T11:33:36 | SUCCESS  | retries=0  | label=other           | subject='BLL1RY | It’s nearly time to board' | 
+2025-07-27T11:33:40 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Marcus B. - Senior Account Executive 💬' | 
+2025-07-27T11:33:44 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T11:33:48 | SUCCESS  | retries=0  | label=newsletter      | subject='Grok 4 rumors 🤖, Character AI’s video model 📹, American DeepSeek project 💻' | 
+2025-07-27T11:33:52 | SUCCESS  | retries=0  | label=billing         | subject='Your ChatGPT code is 654468' | 
+2025-07-27T11:33:55 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Royal Mail parcel from Chococo Wholesale Limited has been delivered' | 
+2025-07-27T11:33:59 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your parcel from Chococo Wholesale Limited is due to be delivered today' | 
+2025-07-27T11:34:28 | SUCCESS  | retries=0  | label=social_notification | subject='Jared Harris Has An Update for You, Roger Pembery' | 
+2025-07-27T11:34:31 | SUCCESS  | retries=0  | label=newsletter      | subject='Ride Like You Mean It' | 
+2025-07-27T11:34:35 | SUCCESS  | retries=0  | label=billing         | subject='RE: Invoice Number: SI119916 for Mrs C Pembery' | 
+2025-07-27T11:34:39 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T11:34:43 | SUCCESS  | retries=0  | label=other           | subject='Important changes to your Samsung account' | 
+2025-07-27T11:34:46 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Paul Clarke - Deputy Editor, Financial News at Dow Jones' | 
+2025-07-27T11:34:50 | SUCCESS  | retries=0  | label=social_notification | subject='New device registration for Remember me' | 
+2025-07-27T11:34:54 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your parcel from Chococo Wholesale Limited is on its way' | 
+2025-07-27T11:34:57 | SUCCESS  | retries=0  | label=billing         | subject='Invoice INV-2015434 from nwITsolutions' | 
+2025-07-27T11:35:01 | SUCCESS  | retries=0  | label=newsletter      | subject='Ride Like the Pros with Trek' | 
+2025-07-27T11:35:05 | SUCCESS  | retries=0  | label=newsletter      | subject='CEO Ilya Sutskever 🚀, Meta Project Omni 🤖, Devin’s Coding Agents 101 💻' | 
+2025-07-27T11:35:08 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T11:35:11 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order has shipped' | 
+2025-07-27T11:35:15 | SUCCESS  | retries=0  | label=newsletter      | subject='Introducing: Send to Slack' | 
+2025-07-27T11:35:19 | SUCCESS  | retries=0  | label=newsletter      | subject='Durham Newswire July 2025' | 
+2025-07-27T11:35:24 | SUCCESS  | retries=0  | label=promotion       | subject="Rizzle Kicks, Bongo's Bingo, Tom Davis, Michael Portillo and more." | 
+2025-07-27T11:35:27 | SUCCESS  | retries=0  | label=billing         | subject='Your ChatGPT code is 070617' | 
+2025-07-27T11:35:30 | SUCCESS  | retries=0  | label=social_notification | subject='Jerome Murray, CFA and Andre Martin-Comrie Have Updates for You, Roger Pembery' | 
+2025-07-27T11:35:34 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Wendy Chalmers - TA oversight manager 💬' | 
+2025-07-27T11:35:38 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: Learn. Lead. Coach' | 
+2025-07-27T11:35:41 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice Number: SI119934 for Mrs C Pembery' | 
+2025-07-27T11:35:44 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice Number: SI119916 for Mrs C Pembery' | 
+2025-07-27T11:35:48 | SUCCESS  | retries=0  | label=newsletter      | subject='Perplexity Max 🔍, Project Stargate expansion 💻, OpenAI & Google’s TPUs 💾' | 
+2025-07-27T11:35:51 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order confirmation' | 
+2025-07-27T11:35:55 | SUCCESS  | retries=0  | label=newsletter      | subject='Challengers. One night only. COME ON!' | 
+2025-07-27T11:36:00 | SUCCESS  | retries=0  | label=event_invite    | subject='Zoom details for 1pm' | 
+2025-07-27T11:36:04 | SUCCESS  | retries=0  | label=promotion       | subject='🔍 New Views: Track Your Progress with Fitness Trends 📈' | 
+2025-07-27T11:36:08 | SUCCESS  | retries=0  | label=event_invite    | subject='National 25 mile TT Championship Sun 3rd August' | 
+2025-07-27T11:36:12 | SUCCESS  | retries=0  | label=promotion       | subject='Unmissable shows coming to Brum! Plus the latest news and more!' | 
+2025-07-27T11:36:16 | SUCCESS  | retries=0  | label=billing         | subject='July Invoice INV-53073 from Cambridge Fibre Networks Ltd. for Roger Pembery' | 
+2025-07-27T11:36:19 | SUCCESS  | retries=0  | label=newsletter      | subject='🚀 285 days, 300+ improvements, and counting...' | 
+2025-07-27T11:36:23 | SUCCESS  | retries=0  | label=personal        | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T11:36:28 | SUCCESS  | retries=0  | label=promotion       | subject='Lewis Capaldi・Rizzle Kicks・Kendrick Lamar and SZA & more' | 
+2025-07-27T11:36:32 | SUCCESS  | retries=0  | label=social_notification | subject='Jason Gish, Jared Harris, and Daniel Waschilowski Have Updates for You, Roger Pe' | 
+2025-07-27T11:36:36 | SUCCESS  | retries=0  | label=newsletter      | subject='Driving the future of tech-powered collaboration — July 16' | 
+2025-07-27T11:36:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Monthly Recap' | 
+2025-07-27T11:36:43 | SUCCESS  | retries=0  | label=newsletter      | subject='Inside ChatGPT 🤖, xAI’s $10B fundraise 💰, Amazon’s new robotics model 💻' | 
+2025-07-27T11:36:47 | SUCCESS  | retries=0  | label=newsletter      | subject='Gifts for great teachers ✏️🎓' | 
+2025-07-27T11:36:50 | SUCCESS  | retries=0  | label=event_invite    | subject='Red flag marshals needed for next Saturday 5th July.' | 
+2025-07-27T11:36:54 | SUCCESS  | retries=0  | label=social_notification | subject='7 profile views' | 
+2025-07-27T11:36:59 | SUCCESS  | retries=0  | label=newsletter      | subject='Hello Developer: Dig deeper into WWDC25.' | 
+2025-07-27T11:37:01 | SUCCESS  | retries=0  | label=order_confirmation | subject='Please confirm your appointment on Tue 5 August at 4:15pm' | 
+2025-07-27T11:37:05 | SUCCESS  | retries=0  | label=billing         | subject="You've used over 95% of your credit limit" | 
+2025-07-27T11:37:09 | SUCCESS  | retries=0  | label=newsletter      | subject='Don’t Compromise on the Ride That Matters Most' | 
+2025-07-27T11:37:12 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice for Claire Pembery (32KR)' | 
+2025-07-27T11:37:20 | SUCCESS  | retries=0  | label=general         | subject='Cursor Web & Mobile 📱, Meta’s superintelligence team 💻, Siri considers OpenAI 🤖' | 
+2025-07-27T11:37:26 | SUCCESS  | retries=0  | label=general         | subject='652475 – your Spotify login code' | 
+2025-07-27T11:37:30 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in 🟦 Hedge Fund Group (HFG) - Hedge Funds, Alternative ' | 
+2025-07-27T11:37:34 | SUCCESS  | retries=0  | label=order_confirmation | subject='Consignment 0001469 Status: Delivered' | 
+2025-07-27T11:37:38 | SUCCESS  | retries=0  | label=event_invite    | subject='Re: Marshals Required' | 
+2025-07-27T11:37:47 | SUCCESS  | retries=1  | label=other           | subject='Security alert' | 
+2025-07-27T11:37:51 | SUCCESS  | retries=0  | label=order_confirmation | subject='APC Overnight Parcel Delivery Pre-Advice' | 
+2025-07-27T11:37:56 | SUCCESS  | retries=0  | label=general         | subject='BLL1RY | Your flight information' | 
+2025-07-27T11:38:00 | SUCCESS  | retries=0  | label=other           | subject='Security alert for Roger.Pembery@cambridgebusinessprojects.com' | 
+2025-07-27T11:38:08 | SUCCESS  | retries=0  | label=other           | subject='Security alert for web@pembery.com' | 
+2025-07-27T11:38:18 | SUCCESS  | retries=1  | label=other           | subject='Security alert' | 
+2025-07-27T11:38:22 | SUCCESS  | retries=0  | label=social_notification | subject='Messages from Trevor and 1 others are waiting' | 
+2025-07-27T11:38:26 | SUCCESS  | retries=0  | label=review_request  | subject='How was your experience with Edward?' | 
+2025-07-27T11:38:30 | SUCCESS  | retries=0  | label=newsletter      | subject='Ample Sound Summer Sale 2025' | 
+2025-07-27T11:38:35 | SUCCESS  | retries=0  | label=shipping_update | subject='APC Overnight Ref: 0001469' | 
+2025-07-27T11:38:39 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Gill Hague - Independent Business Owner 💬' | 
+2025-07-27T11:38:43 | SUCCESS  | retries=0  | label=promotion       | subject='Meta raids OpenAI 🧑\u200d💻, OpenAI rethinks comp 💰, Claude’s vending machine 🥤' | 
+2025-07-27T11:38:48 | SUCCESS  | retries=0  | label=general         | subject='Re: [RPM Coaching] Rider profile form - new submission' | 
+2025-07-27T11:38:56 | SUCCESS  | retries=0  | label=general         | subject='Have Your Say on AI at Work. Win a £250 voucher.' | 
+2025-07-27T11:39:03 | SUCCESS  | retries=0  | label=billing         | subject='Upcoming Direct Debit payment to Cambridge Fibre Networks Ltd' | 
+2025-07-27T11:39:07 | SUCCESS  | retries=0  | label=event_invite    | subject='Marshals Required' | 
+2025-07-27T11:39:12 | SUCCESS  | retries=0  | label=social_notification | subject='Richard J. Tomlinson Has An Update for You, Roger Pembery' | 
+2025-07-27T11:39:16 | SUCCESS  | retries=0  | label=billing         | subject='Your ChatGPT code is 397070' | 
+2025-07-27T11:39:19 | SUCCESS  | retries=0  | label=personal        | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T11:39:24 | SUCCESS  | retries=0  | label=promotion       | subject='Last chance - Free gift with your order 🎁' | 
+2025-07-27T11:39:27 | SUCCESS  | retries=0  | label=other           | subject='Your Apple Account was used to sign in to iCloud on a\xa0Mac\xa0mini\xa0(2024)' | 
+2025-07-27T11:39:32 | SUCCESS  | retries=0  | label=order_confirmation | subject='Please confirm your appointment on Tue 1 July at 4:25pm' | 
+2025-07-27T11:39:40 | SUCCESS  | retries=0  | label=general         | subject='AppleCare+ Proof of Coverage' | 
+2025-07-27T11:39:46 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your receipt from Apple Grand Arcade' | 
+2025-07-27T11:39:51 | SUCCESS  | retries=0  | label=personal        | subject='Get your new Mac ready with Personal Setup.' | 
+2025-07-27T11:39:54 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your receipt from Apple Grand Arcade' | 
+2025-07-27T11:39:58 | SUCCESS  | retries=0  | label=newsletter      | subject='🚴\u200d♂️ Top Performance Bikes – From Just £3,649' | 
+2025-07-27T11:40:02 | SUCCESS  | retries=0  | label=promotion       | subject='Retro revival' | 
+2025-07-27T11:40:05 | SUCCESS  | retries=0  | label=social_notification | subject='Anthony Gaughan, David Harvey, and Justin Slater Have Updates for You, Roger Pem' | 
+2025-07-27T11:40:10 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Your parcel is ready for collection from Amazon Counter - Esso City; please' | 
+2025-07-27T11:40:15 | SUCCESS  | retries=0  | label=order_confirmation | subject='A shipment from order #23260 is on the way' | 
+2025-07-27T11:40:20 | SUCCESS  | retries=0  | label=promotion       | subject='New Raspberry and Pistachio Blondie' | 
+2025-07-27T11:40:24 | SUCCESS  | retries=0  | label=order_confirmation | subject='Order #23260 confirmed' | 
+2025-07-27T11:40:28 | SUCCESS  | retries=0  | label=promotion       | subject='Turn your ideas into AI-powered apps' | 
+2025-07-27T11:40:33 | SUCCESS  | retries=0  | label=newsletter      | subject='Grok code editor 👨\u200d💻, Meta poaches from OpenAI 💰, Gemma 3n ✨' | 
+2025-07-27T11:40:37 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Dan McCrum - Investigative Reporter at Financial Times' | 
+2025-07-27T11:40:42 | SUCCESS  | retries=0  | label=promotion       | subject='Fwd: Duran Duran, Sky Presents the Isle of Wight Festival 2026, Parklife and mor' | 
+2025-07-27T11:40:47 | SUCCESS  | retries=0  | label=billing         | subject='Changes to accounts filing – important update from Companies House' | 
+2025-07-27T11:40:54 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor just messaged you' | 
+2025-07-27T11:41:02 | SUCCESS  | retries=0  | label=promotion       | subject='The New Fastest Wheels in Zwift' | 
+2025-07-27T11:41:07 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T11:41:12 | SUCCESS  | retries=0  | label=promotion       | subject='Craving Authentic Asian Food - Free shipping for orders above £40' | 
+2025-07-27T11:41:17 | SUCCESS  | retries=0  | label=social_notification | subject='Colin Blackett Has An Update for You, Roger Pembery' | 
+2025-07-27T11:41:21 | SUCCESS  | retries=0  | label=social_notification | subject="🔔 Friendly reminder: Melanie & Gideon's event is 3 months away!" | 
+2025-07-27T11:41:26 | SUCCESS  | retries=0  | label=newsletter      | subject='Al Murray, Judi Love, Gareth Malone, La Casa plus many more!' | 
+2025-07-27T11:41:30 | SUCCESS  | retries=0  | label=personal        | subject='Roger, add Lauren Cocklin - Personal Assistant' | 
+2025-07-27T11:41:36 | SUCCESS  | retries=0  | label=promotion       | subject='Going Fast: Must-Have Pumps While Stocks Last' | 
+2025-07-27T11:41:40 | SUCCESS  | retries=0  | label=event_invite    | subject='Leave taking - goodbye and good luck Y13!' | 
+2025-07-27T11:41:45 | SUCCESS  | retries=0  | label=promotion       | subject='Still thinking about it?' | 
+2025-07-27T11:41:49 | SUCCESS  | retries=0  | label=promotion       | subject='DeepMind AlphaGenome 🧬, Gemini CLI 👨\u200d💻, State of Foundation Models 2025 🤖' | 
+2025-07-27T11:41:54 | SUCCESS  | retries=0  | label=newsletter      | subject='Get tickets for The Prodigy, Ricky Gervais & A.R. Rahman! Plus, our latest news ' | 
+2025-07-27T11:41:59 | SUCCESS  | retries=0  | label=promotion       | subject="There's still time to get your free gift 🎁" | 
+2025-07-27T11:42:03 | SUCCESS  | retries=0  | label=newsletter      | subject="Last chance to make your mark at St John's College– Alumni Survey closes Monday " | 
+2025-07-27T11:42:08 | SUCCESS  | retries=0  | label=billing         | subject="You've been sent £700 📣" | 
+2025-07-27T11:42:12 | SUCCESS  | retries=0  | label=event_invite    | subject='Duran Duran・Ricky Gervais・Bach and Arthur・HAIM & more' | 
+2025-07-27T11:42:17 | SUCCESS  | retries=0  | label=social_notification | subject='Haider Al-Seaidy, John Oliver, and James Canosa Have Updates for You, Roger Pemb' | 
+2025-07-27T11:42:21 | SUCCESS  | retries=0  | label=event_invite    | subject="🌟 Don't Miss the Return of the Out of the Ordinary Outdoor this summer!" | 
+2025-07-27T11:42:26 | SUCCESS  | retries=0  | label=newsletter      | subject="Rejections are frustrating. We're making the process easier." | 
+2025-07-27T11:42:31 | SUCCESS  | retries=0  | label=promotion       | subject='ElevenLabs assistant 🤖, Google Imagen 4 4️⃣, Anthropic fair use 🧑\u200d⚖️' | 
+2025-07-27T11:42:35 | SUCCESS  | retries=0  | label=newsletter      | subject='Roger, something caught your eye?' | 
+2025-07-27T11:42:39 | SUCCESS  | retries=0  | label=event_invite    | subject='Stop losing money to misalignment' | 
+2025-07-27T11:42:43 | SUCCESS  | retries=0  | label=order_confirmation | subject='Tredz Order 7881305' | 
+2025-07-27T11:42:47 | SUCCESS  | retries=0  | label=billing         | subject='All cos will have to show p&l accounts from April 27' | 
+2025-07-27T11:42:52 | SUCCESS  | retries=0  | label=promotion       | subject='How is AI shaping your career?' | 
+2025-07-27T11:42:57 | SUCCESS  | retries=0  | label=personal        | subject='I want to connect' | 
+2025-07-27T11:43:01 | SUCCESS  | retries=0  | label=social_notification | subject='6 people noticed you' | 
+2025-07-27T11:43:06 | SUCCESS  | retries=0  | label=newsletter      | subject='Events Bulletin June 2025' | 
+2025-07-27T11:43:10 | SUCCESS  | retries=0  | label=other           | subject='Everyone has signed 156SS permission for a lodger 220625 (signed)' | 
+2025-07-27T11:43:14 | SUCCESS  | retries=0  | label=other           | subject='156SS permission for a lodger 220625 (signed) has been signed by Juniper Robson' | 
+2025-07-27T11:43:18 | SUCCESS  | retries=0  | label=social_notification | subject='Juniper Robson has viewed 156SS permission for a lodger 220625 (signed)' | 
+2025-07-27T11:43:23 | SUCCESS  | retries=0  | label=personal        | subject='156SS permission for a lodger 220625 (signed) has been signed by Leonora Mayall' | 
+2025-07-27T11:43:27 | SUCCESS  | retries=0  | label=other           | subject='Leonora Mayall has viewed 156SS permission for a lodger 220625 (signed)' | 
+2025-07-27T11:43:31 | SUCCESS  | retries=0  | label=promotion       | subject='OpenAI device details 🎧, Grok spreadsheets 📃, Q&A evals ❓' | 
+2025-07-27T11:43:36 | SUCCESS  | retries=0  | label=promotion       | subject='Set your alarms, clear your schedule—it’s Tour Fever!  ⛰️🚴🇫🇷' | 
+2025-07-27T11:43:41 | SUCCESS  | retries=0  | label=personal        | subject='RE: Shimano Di2 Fit & Chainring Clearance on Original Aithein Disc' | 
+2025-07-27T11:43:45 | SUCCESS  | retries=0  | label=order_confirmation | subject='Shimano Di2 Fit & Chainring Clearance on Original Aithein Disc' | 
+2025-07-27T11:43:49 | SUCCESS  | retries=0  | label=social_notification | subject='Kathryn Barrow and Neil Denning Have Updates for You, Roger Pembery' | 
+2025-07-27T11:43:53 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Deepshika Hariparsad, CFA - Product Director 💬' | 
+2025-07-27T11:43:58 | SUCCESS  | retries=0  | label=social_notification | subject='Mark just messaged you' | 
+2025-07-27T11:44:02 | SUCCESS  | retries=0  | label=newsletter      | subject='Apple considers Perplexity 💰, Oakley Meta smart glasses 👓, Character AI CEO 💼' | 
+2025-07-27T11:44:07 | SUCCESS  | retries=0  | label=general         | subject="Fwd: Reminder: Renters' Rights Bill Webinar starts in 1 Day" | 
+2025-07-27T11:44:10 | SUCCESS  | retries=0  | label=event_invite    | subject='Marshals Required' | 
+2025-07-27T11:44:15 | SUCCESS  | retries=0  | label=social_notification | subject='Mike Sullivan, Jane Fenton, and Liz Drury Have Updates for You, Roger Pembery' | 
+2025-07-27T11:44:19 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T11:44:25 | SUCCESS  | retries=0  | label=newsletter      | subject='Stay cool with classics this July at Rephouse' | 
+2025-07-27T11:44:28 | SUCCESS  | retries=0  | label=promotion       | subject='Tuned for Speed – Road & Gravel Performance Starts Here' | 
+2025-07-27T11:44:33 | SUCCESS  | retries=0  | label=personal        | subject='Congrats! You set a personal best on St Ives to Histon' | 
+2025-07-27T11:44:38 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: B1509 H1500' | 
+2025-07-27T11:44:43 | SUCCESS  | retries=0  | label=order_confirmation | subject='B1509 H1500' | 
+2025-07-27T11:44:48 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: B1509 H1499' | 
+2025-07-27T11:44:53 | SUCCESS  | retries=0  | label=order_confirmation | subject='B1509 H1499' | 
+2025-07-27T11:44:57 | SUCCESS  | retries=0  | label=promotion       | subject='10 for the price of 1' | 
+2025-07-27T11:45:01 | SUCCESS  | retries=0  | label=social_notification | subject='Graham Dash and Eoin Murray Have Updates for You, Roger Pembery' | 
+2025-07-27T11:45:07 | SUCCESS  | retries=0  | label=newsletter      | subject="Don't Forget to Bring in Your Outdoor Data!" | 
+2025-07-27T11:45:15 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T11:45:22 | SUCCESS  | retries=0  | label=newsletter      | subject='Enjoy Summer a 5% Discount for you' | 
+2025-07-27T11:45:27 | SUCCESS  | retries=0  | label=promotion       | subject='Solstice Special: Free Gift with your order ☀️' | 
+2025-07-27T11:45:32 | SUCCESS  | retries=0  | label=promotion       | subject='Zwift Ride: Behind the Scenes' | 
+2025-07-27T11:45:36 | SUCCESS  | retries=0  | label=social_notification | subject='Alex Houseman, Konstantinos Korrovesis, and Jo-Ann Browne Have Updates for You, ' | 
+2025-07-27T11:45:41 | SUCCESS  | retries=0  | label=promotion       | subject='Pack More In – Cycling Bags for Every Ride' | 
+2025-07-27T11:45:45 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Helen Jewell - CIO, Fundamental Equities, EMEA at BlackRock' | 
+2025-07-27T11:45:50 | SUCCESS  | retries=0  | label=newsletter      | subject='GPT-5 this summer 5️⃣, LLM economics 💰, Software 3.0 💻' | 
+2025-07-27T11:45:56 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T11:46:05 | SUCCESS  | retries=0  | label=promotion       | subject='Fwd: 25% OFF YOUR BILL!' | 
+2025-07-27T11:46:10 | SUCCESS  | retries=0  | label=promotion       | subject='Samsung SmartThings at Currys' | 
+2025-07-27T11:46:16 | SUCCESS  | retries=0  | label=other           | subject='RE: 93JD0903124 R v BARAKO' | 
+2025-07-27T11:46:20 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T11:46:25 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Richard Witterick - Product Consultant 💬' | 
+2025-07-27T11:46:30 | SUCCESS  | retries=0  | label=shipping_update | subject='Tredz Order 7881305' | 
+2025-07-27T11:46:35 | SUCCESS  | retries=0  | label=newsletter      | subject='Gary Numan, Aisling Bea, Chris Hadfield, The Bootleg Beatles plus many more!' | 
+2025-07-27T11:46:39 | SUCCESS  | retries=0  | label=social_notification | subject='Mike Sullivan, Roger Ohan, and Calum Wild Have Updates for You, Roger Pembery' | 
+2025-07-27T11:46:45 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: Solstice sun' | 
+2025-07-27T11:46:50 | SUCCESS  | retries=0  | label=newsletter      | subject='Make Your Mark – Complete the Durham Alumni Survey' | 
+2025-07-27T11:46:55 | SUCCESS  | retries=0  | label=newsletter      | subject='Midjourney video model 📺, Claude Code MCP support 👨\u200d💻, Meta pursues Nat Friedman' | 
+2025-07-27T11:46:59 | SUCCESS  | retries=0  | label=other           | subject='Your 2024-2025 Certificate of Interest' | 
+2025-07-27T11:47:04 | SUCCESS  | retries=0  | label=personal        | subject='Thank you for last night’s UK launch' | 
+2025-07-27T11:47:09 | SUCCESS  | retries=0  | label=event_invite    | subject='Art & Photography Show 2025' | 
+2025-07-27T11:47:14 | SUCCESS  | retries=0  | label=newsletter      | subject='👀 Check out who’s coming to Brum! Plus our latest news and more!' | 
+2025-07-27T11:47:19 | SUCCESS  | retries=0  | label=event_invite    | subject='Download Festival・Drake・Westlife & more' | 
+2025-07-27T11:47:24 | SUCCESS  | retries=0  | label=newsletter      | subject='Sweeten up Summer Gifts ☀️' | 
+2025-07-27T11:47:29 | SUCCESS  | retries=0  | label=promotion       | subject='Cursor Ultra 💻, OpenAI agent guide 📑, Gemini 2.5 2️⃣' | 
+2025-07-27T11:47:33 | SUCCESS  | retries=0  | label=social_notification | subject='NOTIFICATION TEST - All Staff UK' | 
+2025-07-27T11:47:38 | SUCCESS  | retries=0  | label=social_notification | subject='3 people noticed you' | 
+2025-07-27T11:47:43 | SUCCESS  | retries=0  | label=newsletter      | subject='Dive deeper into WWDC25 announcements.' | 
+2025-07-27T11:47:47 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T11:47:52 | SUCCESS  | retries=0  | label=promotion       | subject='New SRAM Rival & Force AXS Groupsets' | 
+2025-07-27T11:47:58 | SUCCESS  | retries=0  | label=newsletter      | subject="Product Update: What's new at Browse AI" | 
+2025-07-27T11:48:03 | SUCCESS  | retries=0  | label=promotion       | subject='OpenAI-Microsoft relationship 👊, Character AI writing evals 📝, OpenAI’s prompt A' | 
+2025-07-27T11:48:08 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in 🟦 Hedge Fund Group (HFG) - Hedge Funds, Alternative ' | 
+2025-07-27T11:48:12 | SUCCESS  | retries=0  | label=newsletter      | subject='Synthesizer V Studio 2 Pro 2.1.0 – now with ARA support for Pro Tools' | 
+2025-07-27T11:48:17 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: Reminder of Careers support available, including Gap UCAS Day on Monday 23r' | 
+2025-07-27T11:48:21 | SUCCESS  | retries=0  | label=event_invite    | subject='Reminder of Careers support available, including Gap UCAS Day on Monday 23rd Jun' | 
+2025-07-27T11:48:26 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Booking Confirmation - Noshe Cambridge' | 
+2025-07-27T11:48:31 | SUCCESS  | retries=0  | label=social_notification | subject='Dan Cavanaugh and Dan Cavanaugh Have Updates for You, Roger Pembery' | 
+2025-07-27T11:48:40 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance 💬' | 
+2025-07-27T11:48:46 | SUCCESS  | retries=0  | label=general         | subject='We’ve updated our terms and conditions' | 
+2025-07-27T11:48:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic multi-agent architecture 🤖, AMD AI rack analysis 💻, Google leaves Scal' | 
+2025-07-27T11:48:55 | SUCCESS  | retries=0  | label=general         | subject='New Development Director at Hills Road and online auction' | 
+2025-07-27T11:49:00 | SUCCESS  | retries=0  | label=general         | subject='Your OpenAI code is 767047' | 
+2025-07-27T11:49:05 | SUCCESS  | retries=0  | label=billing         | subject='Your annual membership payment' | 
+2025-07-27T11:49:11 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T11:49:15 | SUCCESS  | retries=0  | label=general         | subject='Marshals Required' | 
+2025-07-27T11:49:21 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T11:49:28 | SUCCESS  | retries=0  | label=social_notification | subject='Gavin Hayward and Loz Hudson-Basing Have Updates for You, Roger Pembery' | 
+2025-07-27T11:49:36 | SUCCESS  | retries=0  | label=promotion       | subject='What’s trending in reading glasses right now?' | 
+2025-07-27T11:49:41 | SUCCESS  | retries=0  | label=order_confirmation | subject='Order Confirmation from Tredz.' | 
+2025-07-27T11:49:46 | SUCCESS  | retries=0  | label=newsletter      | subject='Roger, Thanks for Signing up' | 
+2025-07-27T11:49:50 | SUCCESS  | retries=0  | label=shipping_update | subject='A new device has signed into your account' | 
+2025-07-27T11:49:54 | SUCCESS  | retries=0  | label=newsletter      | subject='Escape the Everyday, One Ride at a Time' | 
+2025-07-27T11:50:00 | SUCCESS  | retries=0  | label=newsletter      | subject="Weekend news 📰: Name that Choc quiz & Happy Father's Day" | 
+2025-07-27T11:50:04 | SUCCESS  | retries=0  | label=social_notification | subject='Julian Dorado, Anthony Gaughan, and Loz Hudson-Basing Have Updates for You, Roge' | 
+2025-07-27T11:50:09 | SUCCESS  | retries=0  | label=newsletter      | subject='New Stock, Reduced Prices and additional affordable Yodel Shipping.' | 
+2025-07-27T11:50:14 | SUCCESS  | retries=0  | label=social_notification | subject='You appeared in 9 searches this week' | 
+2025-07-27T11:50:18 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25: Catch the highlights.' | 
+2025-07-27T11:50:23 | SUCCESS  | retries=0  | label=newsletter      | subject='ByteDance frontier video model 🏆, Scale AI’s next phase 🚀, agentic coding 👨\u200d💻' | 
+2025-07-27T11:50:27 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Alexander Gerko - Founder at XTX Markets' | 
+2025-07-27T11:50:32 | SUCCESS  | retries=0  | label=newsletter      | subject="St John's College Global Alumni Survey Reminder" | 
+2025-07-27T11:50:37 | SUCCESS  | retries=0  | label=personal        | subject='Your GOV.UK One Login | Eich GOV.UK One Login' | 
+2025-07-27T11:50:42 | SUCCESS  | retries=0  | label=other           | subject='Your security code for your GOV.UK One Login | Eich cod diogelwch ar gyfer eich ' | 
+2025-07-27T11:50:46 | SUCCESS  | retries=0  | label=billing         | subject='Verify your identity for Companies House now' | 
+2025-07-27T11:50:51 | SUCCESS  | retries=0  | label=general         | subject='Estimate EST-20142948 from nwITsolutions' | 
+2025-07-27T11:50:56 | SUCCESS  | retries=0  | label=social_notification | subject='News & Club Runs' | 
+2025-07-27T11:51:00 | SUCCESS  | retries=0  | label=social_notification | subject='Amy is now following you on Strava.' | 
+2025-07-27T11:51:05 | SUCCESS  | retries=0  | label=social_notification | subject='Mike Sullivan, Husain Rangwala, and John Wilson Have Updates for You, Roger Pemb' | 
+2025-07-27T11:51:10 | SUCCESS  | retries=0  | label=newsletter      | subject='Jim Jefferies, Flowers and Friendship Bracelets, The Rocket Man plus many more!' | 
+2025-07-27T11:51:15 | SUCCESS  | retries=0  | label=event_invite    | subject='How much is GTM misalignment costing you?' | 
+2025-07-27T11:51:20 | SUCCESS  | retries=0  | label=event_invite    | subject='Join our Q&A screening of Holloway' | 
+2025-07-27T11:51:25 | SUCCESS  | retries=0  | label=newsletter      | subject="Won't Be Beaten On Price On Selected Locks" | 
+2025-07-27T11:51:30 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25: Get smarter about Apple Intelligence.' | 
+2025-07-27T11:51:36 | SUCCESS  | retries=0  | label=newsletter      | subject='Meta Physical World Model 🌎, The Browser Company’s Dia 👩\u200d💻, Mistral Compute 💻' | 
+2025-07-27T11:51:40 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T11:51:45 | SUCCESS  | retries=0  | label=newsletter      | subject='reThink: Sharpen your creative edge' | 
+2025-07-27T11:51:49 | SUCCESS  | retries=0  | label=billing         | subject='Invoice Number: SI119864 for Mrs C Pembery' | 
+2025-07-27T11:51:54 | SUCCESS  | retries=0  | label=promotion       | subject='Get tickets for Disney On Ice, Yungblud, Jim Jefferies, Nashville In Concert, pl' | 
+2025-07-27T11:51:59 | SUCCESS  | retries=0  | label=general         | subject='View your latest statement online' | 
+2025-07-27T11:52:05 | SUCCESS  | retries=0  | label=event_invite    | subject='David Byrne・Zara Larsson・Drake & more' | 
+2025-07-27T11:52:10 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Deepshika Hariparsad, CFA - Product Director 💬' | 
+2025-07-27T11:52:14 | SUCCESS  | retries=0  | label=newsletter      | subject='Bikes Made for the Scenic Route' | 
+2025-07-27T11:52:19 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25: The new design has arrived.' | 
+2025-07-27T11:52:24 | SUCCESS  | retries=0  | label=general         | subject='Your latest statement is ready' | 
+2025-07-27T11:52:29 | SUCCESS  | retries=0  | label=newsletter      | subject='Unlocking the Dream Bikes: La Espada 🗡️' | 
+2025-07-27T11:52:34 | SUCCESS  | retries=0  | label=promotion       | subject='OpenAI o3-pro 🤖, Meta + Scale AI 💰, Mistral Magistral 🎩' | 
+2025-07-27T11:52:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Calculate Salary to Day Rates for Banking & Financial Services Roles' | 
+2025-07-27T11:52:45 | SUCCESS  | retries=0  | label=general         | subject='RE: 93JD0903124 R v BARAKO' | 
+2025-07-27T11:52:49 | SUCCESS  | retries=0  | label=social_notification | subject='2 people noticed you' | 
+2025-07-27T11:52:54 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new message' | 
+2025-07-27T11:52:59 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25 is here!' | 
+2025-07-27T11:53:04 | SUCCESS  | retries=0  | label=event_invite    | subject='Free Folk in the City Concert at Cherry Hinton Hall - Full Line-Up Announced' | 
+2025-07-27T11:53:10 | SUCCESS  | retries=0  | label=promotion       | subject='It’s National Bike Week – Let’s Ride!' | 
+2025-07-27T11:53:16 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25: New Swift, SwiftUI, Xcode, and much more.' | 
+2025-07-27T11:53:20 | SUCCESS  | retries=0  | label=billing         | subject='Your latest statement is ready' | 
+2025-07-27T11:53:25 | SUCCESS  | retries=0  | label=newsletter      | subject='Apple on-device models 📱, OpenAI $10B ARR 💰, ChatGPT Voice Mode 🔈' | 
+2025-07-27T11:53:30 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Helen Jewell - CIO, Fundamental Equities, EMEA at BlackRock' | 
+2025-07-27T11:53:35 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in 🟦 Hedge Fund Group (HFG) - Hedge Funds, Alternative ' | 
+2025-07-27T11:53:41 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Membership Purchase Receipt' | 
+2025-07-27T11:53:45 | SUCCESS  | retries=0  | label=general         | subject='Where is AI taking your career next? Share your insights.' | 
+2025-07-27T11:53:51 | SUCCESS  | retries=0  | label=newsletter      | subject='WWDC25: Let’s go.' | 
+2025-07-27T11:53:55 | SUCCESS  | retries=0  | label=review_request  | subject='We would still love to hear from you' | 
+2025-07-27T11:54:00 | SUCCESS  | retries=0  | label=event_invite    | subject='The chickens are coming to Cambridge...' | 
+2025-07-27T11:54:05 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T11:54:10 | SUCCESS  | retries=0  | label=newsletter      | subject='Meta + Scale AI rumors 💰, Gemini scheduled actions 🤖, Claude Gov 🏛️' | 
+2025-07-27T11:54:15 | SUCCESS  | retries=0  | label=newsletter      | subject="News from St John's - June 2025" | 
+2025-07-27T11:54:20 | SUCCESS  | retries=0  | label=event_invite    | subject='Marshals Required' | 
+2025-07-27T11:54:24 | SUCCESS  | retries=0  | label=general         | subject="Mike P wants to join your shared folder 'mike_roger'" | 
+2025-07-27T11:54:29 | SUCCESS  | retries=0  | label=other           | subject="Mike P wants to join your shared folder 'Dad_Mum_Legals_20250607'" | 
+2025-07-27T11:54:32 | SUCCESS  | retries=0  | label=other           | subject="Mike P wants to join your shared folder 'mike_roger'" | 
+2025-07-27T11:54:37 | SUCCESS  | retries=0  | label=order_confirmation | subject='LeShuttle Booking Confirmation – 93 88 13 32' | 
+2025-07-27T11:54:41 | SUCCESS  | retries=0  | label=social_notification | subject='Document shared with you: "20250607 dad health discussion"' | 
+2025-07-27T11:54:46 | SUCCESS  | retries=0  | label=other           | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T11:54:50 | SUCCESS  | retries=0  | label=newsletter      | subject='Get Set for Sunshine – Save on Cycling Kit' | 
+2025-07-27T11:54:55 | SUCCESS  | retries=0  | label=event_invite    | subject='Win tickets to the England Women’s cricket 🏏' | 
+2025-07-27T11:54:59 | SUCCESS  | retries=0  | label=promotion       | subject='New Little Simz!' | 
+2025-07-27T11:55:04 | SUCCESS  | retries=0  | label=promotion       | subject='Newly Reduced Prices and New Stock' | 
+2025-07-27T11:55:10 | SUCCESS  | retries=0  | label=billing         | subject='Invoice 1089 from Farrow Gardening' | 
+2025-07-27T11:55:16 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Order confirmation' | 
+2025-07-27T11:55:21 | SUCCESS  | retries=0  | label=promotion       | subject='Win tickets to the England Women’s cricket 🏏' | 
+2025-07-27T11:55:26 | SUCCESS  | retries=0  | label=newsletter      | subject='Gemini 2.5 Pro upgrade 🤖, Eleven v3 🗣️, Cursor’s $9.9B valuation 💰' | 
+2025-07-27T11:55:30 | SUCCESS  | retries=0  | label=newsletter      | subject='Durham Newswire June 2025' | 
+2025-07-27T11:55:35 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Royal Mail parcel from Chococo Wholesale Limited has been delivered' | 
+2025-07-27T11:55:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Adventure begins where the road ends' | 
+2025-07-27T11:55:45 | SUCCESS  | retries=0  | label=shipping_update | subject='Your parcel from Chococo Wholesale Limited is due to be delivered today' | 
+2025-07-27T11:55:50 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T11:55:54 | SUCCESS  | retries=0  | label=social_notification | subject='Adam King Has An Update for You, Roger Pembery' | 
+2025-07-27T11:56:00 | SUCCESS  | retries=0  | label=event_invite    | subject='The Best of Tubular Bells I, II & III, Jake Bugg, Jason Manford plus many more!' | 
+2025-07-27T11:56:05 | SUCCESS  | retries=0  | label=newsletter      | subject='The right accessories make all the difference.' | 
+2025-07-27T11:56:10 | SUCCESS  | retries=0  | label=newsletter      | subject='The owls are not what they seem.' | 
+2025-07-27T11:56:14 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: No spoilers' | 
+2025-07-27T11:56:20 | SUCCESS  | retries=0  | label=newsletter      | subject='ChatGPT record mode ⏺️, Cursor 1.0 1️⃣, Mistral Code 💻' | 
+2025-07-27T11:56:25 | SUCCESS  | retries=0  | label=other           | subject='ECCTA 2023 Impact on the Appointment and Termination of Directors' | 
+2025-07-27T11:56:29 | SUCCESS  | retries=0  | label=event_invite    | subject='Secure your tickets to see Drake, Benson Boone & André Rieu in Brum! Plus the la' | 
+2025-07-27T11:56:34 | SUCCESS  | retries=0  | label=newsletter      | subject='Alessia Cara, A. G. Cook, Youth Opportunities & More | Your Summer starts here a' | 
+2025-07-27T11:56:40 | SUCCESS  | retries=0  | label=shipping_update | subject='Your parcel from Chococo Wholesale Limited is on its way' | 
+2025-07-27T11:56:45 | SUCCESS  | retries=0  | label=event_invite    | subject='Drake・Arijit Singh・Benson Boone & more' | 
+2025-07-27T11:56:50 | SUCCESS  | retries=0  | label=general         | subject='Updated Reminder - Complete the Global Alumni Survey' | 
+2025-07-27T11:56:54 | SUCCESS  | retries=0  | label=newsletter      | subject='Find your Perfect Road Bike' | 
+2025-07-27T11:56:59 | SUCCESS  | retries=0  | label=social_notification | subject='Martin Gloyne and Shane Davies Have Updates for You, Roger Pembery' | 
+2025-07-27T11:57:04 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance' | 
+2025-07-27T11:57:09 | SUCCESS  | retries=0  | label=general         | subject='Your Voice Matters - Reminder to complete the Global Alumni Survey' | 
+2025-07-27T11:57:14 | SUCCESS  | retries=0  | label=newsletter      | subject='NotebookLM Updates 📓, GitHub Copilot Spaces 💻, longer AI timelines ⌛' | 
+2025-07-27T11:57:19 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order has shipped' | 
+2025-07-27T11:57:23 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice for Claire Pembery (32KR)' | 
+2025-07-27T11:57:27 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chess - Play and Learn subscription will be canceled' | 
+2025-07-27T11:57:32 | SUCCESS  | retries=0  | label=social_notification | subject='3 people noticed you' | 
+2025-07-27T11:57:37 | SUCCESS  | retries=0  | label=social_notification | subject='Rob Sanders Has An Update for You, Roger Pembery' | 
+2025-07-27T11:57:42 | SUCCESS  | retries=0  | label=newsletter      | subject='Hello Developer: Introducing the Apple Design Award winners and finalists.' | 
+2025-07-27T11:57:47 | SUCCESS  | retries=0  | label=promotion       | subject='⚡ New SPD-SL® Power Pedals' | 
+2025-07-27T11:57:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Why Buy A Trek With Tredz?' | 
+2025-07-27T11:57:57 | SUCCESS  | retries=0  | label=promotion       | subject='Microsoft AI video generator 📹, Character.AI multimodal tools 📚, Salesforce acqu' | 
+2025-07-27T11:58:02 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order confirmation' | 
+2025-07-27T11:58:06 | SUCCESS  | retries=0  | label=other           | subject='RE: 93JD0903124 R v BARAKO' | 
+2025-07-27T11:58:11 | SUCCESS  | retries=0  | label=billing         | subject='June Invoice INV-51482 from Cambridge Fibre Networks Ltd. for Roger Pembery' | 
+2025-07-27T11:58:16 | SUCCESS  | retries=0  | label=newsletter      | subject='Watch the WWDC25 Keynote and Platforms State of the Union.' | 
+2025-07-27T11:58:21 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt and John Bleasdale Have Updates for You, Roger Pembery' | 
+2025-07-27T11:58:26 | SUCCESS  | retries=0  | label=review_request  | subject='We love to hear from you' | 
+2025-07-27T11:58:30 | SUCCESS  | retries=0  | label=general         | subject="Here's how we're helping prevent phone theft" | 
+2025-07-27T11:58:35 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T11:58:40 | SUCCESS  | retries=0  | label=promotion       | subject='Samsung + Perplexity 📱, Anthropic revenue surges 📈, Bond Capital AI trends 🤖' | 
+2025-07-27T11:58:45 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Monthly Recap' | 
+2025-07-27T11:58:50 | SUCCESS  | retries=0  | label=newsletter      | subject='Exclusive Synthesizer V Studio 2 Pro Course Access from Groove3' | 
+2025-07-27T11:58:55 | SUCCESS  | retries=0  | label=personal        | subject='Re: 32 Keynes Road - EICR' | 
+2025-07-27T11:59:00 | SUCCESS  | retries=0  | label=newsletter      | subject='Roger, Welcome to your Fil Investment Management Ltd healthcare scheme' | 
+2025-07-27T11:59:05 | SUCCESS  | retries=0  | label=newsletter      | subject='⭐ Streak Flair Reward Incoming: Animated Scotty! 🔥' | 
+2025-07-27T11:59:12 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T11:59:19 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Sonali Basak - Anchor & Global Finance Correspondent at Bloomberg ' | 
+2025-07-27T11:59:24 | SUCCESS  | retries=0  | label=newsletter      | subject='Coming up this June at Rephouse' | 
+2025-07-27T11:59:29 | SUCCESS  | retries=0  | label=newsletter      | subject='15% off everything ends TONIGHT ⏰' | 
+2025-07-27T11:59:34 | SUCCESS  | retries=0  | label=promotion       | subject='Kit Up for Every Ride' | 
+2025-07-27T11:59:39 | SUCCESS  | retries=0  | label=promotion       | subject="Something a little different this Father's Day..." | 
+2025-07-27T11:59:45 | SUCCESS  | retries=0  | label=promotion       | subject='Get Ready for Summer with New Stock and Discounted Prices' | 
+2025-07-27T11:59:49 | SUCCESS  | retries=0  | label=social_notification | subject="Daily Rundown: New WFH trend: 'body…" | 
+2025-07-27T11:59:54 | SUCCESS  | retries=0  | label=other           | subject='[Action Advised] Protect your applications and enhance your security' | 
+2025-07-27T12:00:02 | SUCCESS  | retries=0  | label=newsletter      | subject='New season, new flavours ☀️' | 
+2025-07-27T12:00:08 | SUCCESS  | retries=0  | label=promotion       | subject='Trek Marlin' | 
+2025-07-27T12:00:14 | SUCCESS  | retries=0  | label=promotion       | subject='Perplexity Labs 🧪, DeepSeek R1 0528 analysis 🐋, 1,000x Increase in AI Demand 📈' | 
+2025-07-27T12:00:18 | SUCCESS  | retries=0  | label=other           | subject='Notebook shared with you: "Provence France 2025"' | 
+2025-07-27T12:00:23 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:00:29 | SUCCESS  | retries=0  | label=promotion       | subject="Big News! We've Slashed Prices Across the Store – Shop More, Spend Less!" | 
+2025-07-27T12:00:34 | SUCCESS  | retries=0  | label=social_notification | subject='Neha Parekh Has An Update for You, Roger Pembery' | 
+2025-07-27T12:00:42 | SUCCESS  | retries=0  | label=promotion       | subject='Bridget Christie, The Anglia Comedy Allstars, The Billy Joel Song Book plus many' | 
+2025-07-27T12:00:48 | SUCCESS  | retries=0  | label=newsletter      | subject='Events Bulletin May 2025' | 
+2025-07-27T12:00:53 | SUCCESS  | retries=0  | label=newsletter      | subject='Conquer Every Terrain 🚵\u200d♂️🚴' | 
+2025-07-27T12:00:58 | SUCCESS  | retries=0  | label=newsletter      | subject='DeepSeek R1 Update 📚, Hugging Face CodeAgents 💻, Anthropic CEO Warning ⚠️' | 
+2025-07-27T12:01:02 | SUCCESS  | retries=0  | label=personal        | subject='32 Keynes Road - EICR' | 
+2025-07-27T12:01:11 | SUCCESS  | retries=0  | label=newsletter      | subject="Secure your tickets to BKFC 77 & check out the latest news from Birmingham's Are" | 
+2025-07-27T12:01:18 | SUCCESS  | retries=0  | label=promotion       | subject='Metallica・Arijit Singh・Joy Crookes・Neck Deep & more' | 
+2025-07-27T12:01:23 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt commented on Lesley Li’s…' | 
+2025-07-27T12:01:27 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Helen Cleall - Regulatory Change Manager' | 
+2025-07-27T12:01:31 | SUCCESS  | retries=0  | label=newsletter      | subject="A Bike for Every Rider: Explore Trek's Road Collection" | 
+2025-07-27T12:01:36 | SUCCESS  | retries=0  | label=promotion       | subject='1 ad can perform better with this new feature' | 
+2025-07-27T12:01:40 | SUCCESS  | retries=0  | label=promotion       | subject='1 ad can perform better with this new feature' | 
+2025-07-27T12:01:45 | SUCCESS  | retries=0  | label=order_confirmation | subject='Please confirm your appointment on Tue 1 July at 4:25pm' | 
+2025-07-27T12:01:51 | SUCCESS  | retries=0  | label=promotion       | subject='Mistral Agents API 🧠, Sign in with ChatGPT 🔐, Meta AI re-org 💼' | 
+2025-07-27T12:01:56 | SUCCESS  | retries=0  | label=promotion       | subject='Offer extended - 15% off your favourites 🍫' | 
+2025-07-27T12:02:02 | SUCCESS  | retries=0  | label=billing         | subject='Upcoming Direct Debit payment to Cambridge Fibre Networks Ltd' | 
+2025-07-27T12:02:07 | SUCCESS  | retries=0  | label=review_request  | subject="You finished Echopraxia (Firefall Book 2). What's next?" | 
+2025-07-27T12:02:17 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Callum Thomas - Head of Research at Topdown Charts' | 
+2025-07-27T12:02:23 | SUCCESS  | retries=0  | label=social_notification | subject='Congratulate Darren Park for 18 years at Insight Investment' | 
+2025-07-27T12:02:28 | SUCCESS  | retries=0  | label=newsletter      | subject='The Specialized Levo 4 Alloy' | 
+2025-07-27T12:02:34 | SUCCESS  | retries=0  | label=general         | subject="St John's College Alumni Survey Reminder" | 
+2025-07-27T12:02:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Claude 4 System Prompt 💬, Operator o3 system card 📚, Mistral Document AI 📄' | 
+2025-07-27T12:02:45 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in Hedge Fund Group (HFG) - Hedge Funds, Alternative In' | 
+2025-07-27T12:02:49 | SUCCESS  | retries=0  | label=newsletter      | subject='Managing Salary Expectations in Banking & Financial Services' | 
+2025-07-27T12:02:54 | SUCCESS  | retries=0  | label=social_notification | subject='Paul Charie reposted: Eeek! 😝 We’ve…' | 
+2025-07-27T12:02:58 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:03:04 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:03:09 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: B1509 H1499; H1500' | 
+2025-07-27T12:03:13 | SUCCESS  | retries=0  | label=order_confirmation | subject='B1509 H1499; H1500' | 
+2025-07-27T12:03:17 | SUCCESS  | retries=0  | label=review_request  | subject='Please confirm your appointment on Wed 28 May at 3:00pm' | 
+2025-07-27T12:03:25 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI Operator upgrade 🤖, infinite tool use 🔨, advances beyond attention 📝' | 
+2025-07-27T12:03:32 | SUCCESS  | retries=0  | label=event_invite    | subject='AXS Ticket' | 
+2025-07-27T12:03:37 | SUCCESS  | retries=0  | label=order_confirmation | subject='Thank you for purchasing tickets for Stereophonics plus special guests - Car Par' | 
+2025-07-27T12:03:42 | SUCCESS  | retries=0  | label=event_invite    | subject='AXS Ticket' | 
+2025-07-27T12:03:48 | SUCCESS  | retries=0  | label=promotion       | subject='15% off everything - final few days...' | 
+2025-07-27T12:03:53 | SUCCESS  | retries=0  | label=promotion       | subject='Unlock Big Savings - Top Deals Await!' | 
+2025-07-27T12:04:00 | SUCCESS  | retries=0  | label=general         | subject='FW: Ryanair Travel Itinerary' | 
+2025-07-27T12:04:05 | SUCCESS  | retries=0  | label=newsletter      | subject='Meet our best selling reading glasses' | 
+2025-07-27T12:04:12 | SUCCESS  | retries=0  | label=billing         | subject="You've been sent £625 📣" | 
+2025-07-27T12:04:20 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:04:26 | SUCCESS  | retries=0  | label=promotion       | subject='Meet Claude 4' | 
+2025-07-27T12:04:31 | SUCCESS  | retries=0  | label=social_notification | subject='Marshals Required' | 
+2025-07-27T12:04:37 | SUCCESS  | retries=0  | label=newsletter      | subject="Weekend round-up 📰: Father's Day range, a new gelato flavour and more" | 
+2025-07-27T12:04:41 | SUCCESS  | retries=0  | label=social_notification | subject='Ritu Vohora, CFA reshared a post' | 
+2025-07-27T12:04:47 | SUCCESS  | retries=0  | label=newsletter      | subject='Take on the trails with Trek MTBs' | 
+2025-07-27T12:04:52 | SUCCESS  | retries=0  | label=general         | subject='Y13 Email from Head of Year for your information' | 
+2025-07-27T12:04:59 | SUCCESS  | retries=0  | label=newsletter      | subject='Claude 4 4️⃣, OpenAI Stargate UAE ⚡, AI talent wars 🚀' | 
+2025-07-27T12:05:05 | SUCCESS  | retries=0  | label=promotion       | subject="Wes Anderson's The Phoenician Scheme is in cinemas now" | 
+2025-07-27T12:05:14 | SUCCESS  | retries=0  | label=general         | subject='James May: Explorers' | 
+2025-07-27T12:05:19 | SUCCESS  | retries=0  | label=event_invite    | subject='Get ready for the ZRL Showdown!' | 
+2025-07-27T12:05:25 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:05:30 | SUCCESS  | retries=0  | label=newsletter      | subject='Lulu, Yusuf / Cat Stevens, The Princess Proms, Voices of Hope and Compassion plu' | 
+2025-07-27T12:05:33 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your appointment is updated to Wed 28 May at 3:00pm' | 
+2025-07-27T12:05:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: Elevation' | 
+2025-07-27T12:05:46 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI acquires Jony Ive’s io 🚀, Mistal’s Devstral 💻, Vercel’s v0 AI model 👨\u200d💻' | 
+2025-07-27T12:05:55 | SUCCESS  | retries=0  | label=general         | subject='Voluntary ID Verification for Directors and PSCs is Open' | 
+2025-07-27T12:06:02 | SUCCESS  | retries=0  | label=event_invite    | subject='Re: Call on Thursday 8th May??' | 
+2025-07-27T12:06:07 | SUCCESS  | retries=0  | label=newsletter      | subject='15% off everything this weekend 🎉' | 
+2025-07-27T12:06:13 | SUCCESS  | retries=0  | label=event_invite    | subject='🎫 Get your hands on The Lightning Seeds tickets. 🎫' | 
+2025-07-27T12:06:21 | SUCCESS  | retries=0  | label=promotion       | subject='See Jason Derulo, Vybz Kartel and Wolf Alice live in Brum! Plus the latest news ' | 
+2025-07-27T12:06:27 | SUCCESS  | retries=0  | label=promotion       | subject='(EZ Gains): Create a channel to directly message your followers!' | 
+2025-07-27T12:06:33 | SUCCESS  | retries=0  | label=event_invite    | subject='Vybz Kartel・Beyoncé・Hot Wheels Stunt Show・Alessi Rose & more' | 
+2025-07-27T12:06:39 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:06:44 | SUCCESS  | retries=0  | label=promotion       | subject='Galaxy S25 Edge with free Galaxy Buds3🙌' | 
+2025-07-27T12:06:50 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance' | 
+2025-07-27T12:06:56 | SUCCESS  | retries=0  | label=event_invite    | subject='The Robert Cray Band' | 
+2025-07-27T12:07:02 | SUCCESS  | retries=0  | label=promotion       | subject='Google Jules 💻, Google AI Glasses 👓, DeepSeek-V3 Training Insights 🧑\u200d🏫' | 
+2025-07-27T12:07:07 | SUCCESS  | retries=0  | label=order_confirmation | subject='Please confirm your appointment on Fri 23 May at 1:00pm' | 
+2025-07-27T12:07:12 | SUCCESS  | retries=0  | label=billing         | subject='Your interest rate(s) is decreasing' | 
+2025-07-27T12:07:21 | SUCCESS  | retries=0  | label=personal        | subject='Fwd: 8 the Terrace Hampden Gardens CB1 3DU' | 
+2025-07-27T12:07:29 | SUCCESS  | retries=0  | label=event_invite    | subject='What’s ahead at WWDC25.' | 
+2025-07-27T12:07:35 | SUCCESS  | retries=0  | label=promotion       | subject='Discover ACE Studio AI Violin: Quick, Expressive, and Simple' | 
+2025-07-27T12:07:40 | SUCCESS  | retries=0  | label=newsletter      | subject='Find Your Perfect Trek' | 
+2025-07-27T12:07:46 | SUCCESS  | retries=0  | label=newsletter      | subject='Google NotebookLM App 📓, Microsoft MCP 🤖, Character AI Memory 🧠' | 
+2025-07-27T12:07:53 | SUCCESS  | retries=0  | label=social_notification | subject='Rob Sanders reshared a post' | 
+2025-07-27T12:08:00 | SUCCESS  | retries=0  | label=newsletter      | subject='Share Your Views in our Global Alumni Survey' | 
+2025-07-27T12:08:06 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:08:12 | SUCCESS  | retries=0  | label=personal        | subject='I am about to pack up and come home.  Will pop to Waitrose for full fat cream ch' | 
+2025-07-27T12:08:17 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI Codex 💻, Trump Admin & AI Chips 🤖, Anthropic Credit Line 💰' | 
+2025-07-27T12:08:22 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:08:27 | SUCCESS  | retries=0  | label=personal        | subject='Forgot my phone' | 
+2025-07-27T12:08:33 | SUCCESS  | retries=0  | label=newsletter      | subject='Your next visit just got easier' | 
+2025-07-27T12:08:41 | SUCCESS  | retries=0  | label=newsletter      | subject='Studying hard? Here’s how to beat screen fatigue 💻👓' | 
+2025-07-27T12:08:46 | SUCCESS  | retries=0  | label=newsletter      | subject="Weekend round-up #2 📰: Hot Choc refill bags | Cream Tea | Brownie Mix 'n' Match" | 
+2025-07-27T12:08:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Ride Ready? Don’t Set Off Without These' | 
+2025-07-27T12:08:57 | SUCCESS  | retries=0  | label=personal        | subject='Re: Call on Thursday 8th May??' | 
+2025-07-27T12:09:03 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:09:09 | SUCCESS  | retries=0  | label=personal        | subject='Congrats! You set a personal best on Climb out of Bourn (Southbound)' | 
+2025-07-27T12:09:17 | SUCCESS  | retries=0  | label=newsletter      | subject='Weekend round-up #1 📰: Extra Sale discounts | Win Bank Holiday Brownies | Flourl' | 
+2025-07-27T12:09:23 | SUCCESS  | retries=0  | label=promotion       | subject='£200 off Galaxy S25 Edge when you trade in any Android smartphone😮' | 
+2025-07-27T12:09:29 | SUCCESS  | retries=0  | label=promotion       | subject='Meta’s New Artifacts 📚, Windsurf in-house models 🌐, Google AI-Powered Accessibil' | 
+2025-07-27T12:09:35 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T12:09:40 | SUCCESS  | retries=0  | label=promotion       | subject='TREK - Now At Tredz 💥' | 
+2025-07-27T12:09:46 | SUCCESS  | retries=0  | label=social_notification | subject="You finished Blindsight (Firefall, #1). What's next?" | 
+2025-07-27T12:09:52 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:09:58 | SUCCESS  | retries=0  | label=newsletter      | subject="Ardal O'Hanlon, Celebrating Celine, The James Bond Concert Spectacular plus many" | 
+2025-07-27T12:10:07 | SUCCESS  | retries=0  | label=general         | subject='Your latest statement is ready' | 
+2025-07-27T12:10:14 | SUCCESS  | retries=0  | label=newsletter      | subject='DeepMind AlphaEvolve 💻, Stability AI Text-to-Audio 🔈, OpenAI Safety Evaluations ' | 
+2025-07-27T12:10:20 | SUCCESS  | retries=0  | label=promotion       | subject="New Members' perk! Spark imagination with Sparks Film School" | 
+2025-07-27T12:10:25 | SUCCESS  | retries=0  | label=newsletter      | subject='Coming Soon To Tredz...' | 
+2025-07-27T12:10:30 | SUCCESS  | retries=0  | label=newsletter      | subject='New Feature: MIDI Device Input Now Available in ACE Studio!' | 
+2025-07-27T12:10:36 | SUCCESS  | retries=0  | label=promotion       | subject='See WWE Monday Night RAW and Lorde live in Brum! Plus the latest news and more!' | 
+2025-07-27T12:10:44 | SUCCESS  | retries=0  | label=general         | subject='Your pixel is being used on new domains' | 
+2025-07-27T12:10:50 | SUCCESS  | retries=0  | label=promotion       | subject="Post Malone・Hot Wheels Stunt Show・Bluey's Big Play & more" | 
+2025-07-27T12:10:56 | SUCCESS  | retries=0  | label=social_notification | subject='Tom Whittle shared a post: Following in…' | 
+2025-07-27T12:11:05 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance 💬' | 
+2025-07-27T12:11:11 | SUCCESS  | retries=0  | label=newsletter      | subject='TikTok AI Alive 📱, Audible AI audiobooks 📚, Tencent WizardLM team 🧙' | 
+2025-07-27T12:11:18 | SUCCESS  | retries=0  | label=promotion       | subject='Last chance for our Spring Collection, Brownie flavours and a new competition' | 
+2025-07-27T12:11:24 | SUCCESS  | retries=0  | label=personal        | subject='Re: Call on Thursday 8th May??' | 
+2025-07-27T12:11:30 | SUCCESS  | retries=0  | label=billing         | subject='Invoice 1074 from Farrow Gardening' | 
+2025-07-27T12:11:35 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt commented on Rob Sheffield -…' | 
+2025-07-27T12:11:41 | SUCCESS  | retries=0  | label=promotion       | subject='Gear Up for the Warm Weather Miles' | 
+2025-07-27T12:12:10 | SUCCESS  | retries=0  | label=billing         | subject='Your latest statement is ready' | 
+2025-07-27T12:12:15 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI Stargate Delay ❓, Google AI Futures Fund 🚀, Manus Free Access 💸' | 
+2025-07-27T12:12:21 | SUCCESS  | retries=0  | label=promotion       | subject='Meet Galaxy S25 Edge: Our slimmest Galaxy S phone yet ✨' | 
+2025-07-27T12:12:27 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T12:12:33 | SUCCESS  | retries=0  | label=social_notification | subject="OpenAI & Microsoft Renegotiate Terms 🤝, Meta’s New FAIR Director 🧑\u200d🚀, ChatGPT's " | 
+2025-07-27T12:12:38 | SUCCESS  | retries=0  | label=review_request  | subject='We need you to send us a document' | 
+2025-07-27T12:12:45 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:13:11 | SUCCESS  | retries=0  | label=newsletter      | subject='Real Estate Connect, Q2 2025' | 
+2025-07-27T12:13:17 | SUCCESS  | retries=0  | label=newsletter      | subject='How Pay Transparency is Reshaping Banking & Financial Services Hiring' | 
+2025-07-27T12:13:22 | SUCCESS  | retries=0  | label=social_notification | subject='Congratulate Lee Ryan for 2 years at HSBC Asset Management' | 
+2025-07-27T12:13:29 | SUCCESS  | retries=0  | label=newsletter      | subject="Don't forget! Tell us about your time as a Member" | 
+2025-07-27T12:13:34 | SUCCESS  | retries=0  | label=promotion       | subject='Shimano Stock Is Selling Fast' | 
+2025-07-27T12:13:40 | SUCCESS  | retries=0  | label=promotion       | subject='Roger, looking for a new job?' | 
+2025-07-27T12:13:46 | SUCCESS  | retries=0  | label=social_notification | subject='Shelli Haswell reshared a post:…' | 
+2025-07-27T12:13:52 | SUCCESS  | retries=0  | label=promotion       | subject='Congrats! You set a personal best on Into Swavesey Guided Busway' | 
+2025-07-27T12:13:58 | SUCCESS  | retries=0  | label=personal        | subject='Congrats! You set a personal best on Histon to St Ives' | 
+2025-07-27T12:14:06 | SUCCESS  | retries=0  | label=personal        | subject='Congrats! You set a personal best on Histon - St Ives (Busway)' | 
+2025-07-27T12:14:11 | SUCCESS  | retries=0  | label=other           | subject='Weekly attendance for Isaac Pembery' | 
+2025-07-27T12:14:18 | SUCCESS  | retries=0  | label=billing         | subject='View your latest statement online' | 
+2025-07-27T12:14:24 | SUCCESS  | retries=0  | label=newsletter      | subject='Ride Like King 17. Every KM Counts 🚴\u200d♂️🌍' | 
+2025-07-27T12:14:29 | SUCCESS  | retries=0  | label=newsletter      | subject='Mistral Medium 3 ⚙️, Fidji Simo joins OpenAI 🤝, Anthropic Web Search API 🔍' | 
+2025-07-27T12:14:35 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Callum Thomas - Head of Research at Topdown Charts' | 
+2025-07-27T12:14:40 | SUCCESS  | retries=0  | label=other           | subject='Year 13 - Good Luck and Farewell' | 
+2025-07-27T12:15:08 | SUCCESS  | retries=0  | label=shipping_update | subject='Your Royal Mail parcel from Chococo Wholesale Limited has been delivered' | 
+2025-07-27T12:15:14 | SUCCESS  | retries=0  | label=social_notification | subject='Richard just messaged you' | 
+2025-07-27T12:15:19 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your parcel from Chococo Wholesale Limited is due to be delivered today' | 
+2025-07-27T12:15:25 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:15:30 | SUCCESS  | retries=0  | label=event_invite    | subject='St Ives CC TT sign up link' | 
+2025-07-27T12:15:36 | SUCCESS  | retries=0  | label=social_notification | subject='Andrew Green shared a post: Hi All…' | 
+2025-07-27T12:16:01 | SUCCESS  | retries=0  | label=newsletter      | subject='Rocky Horror Show, The Night Sky Show, Sandi Toksvig, Saving Grace Podcast Live ' | 
+2025-07-27T12:16:07 | SUCCESS  | retries=0  | label=newsletter      | subject="Member News: Sun's out..." | 
+2025-07-27T12:16:13 | SUCCESS  | retries=0  | label=promotion       | subject='Save £50 on our next Galaxy smartphone' | 
+2025-07-27T12:16:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Get Ready for Music in the Parks 2025!' | 
+2025-07-27T12:16:45 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic API Web Search 👋, Safari AI Search 🔍, Amazon Vulcan Robot 👋' | 
+2025-07-27T12:16:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Concert Week IS BACK・Over 80,000 tickets at special rates for a limited time 🎟️' | 
+2025-07-27T12:16:57 | SUCCESS  | retries=0  | label=newsletter      | subject='Shimano at the best price' | 
+2025-07-27T12:17:03 | SUCCESS  | retries=0  | label=newsletter      | subject='AI Violin, MIDI Device Input, AAX Plugin, and More in ACE Studio 1.9.10' | 
+2025-07-27T12:17:10 | SUCCESS  | retries=0  | label=shipping_update | subject='Your parcel from Chococo Wholesale Limited is on its way' | 
+2025-07-27T12:17:34 | SUCCESS  | retries=0  | label=event_invite    | subject='See Halestorm and Masoud vs McGrail live in Brum! Plus the latest news and more!' | 
+2025-07-27T12:17:41 | SUCCESS  | retries=0  | label=personal        | subject='Re: Call on Thursday 8th May??' | 
+2025-07-27T12:17:47 | SUCCESS  | retries=0  | label=newsletter      | subject='Looking to ride longer and set the pace? Here’s how!' | 
+2025-07-27T12:17:52 | SUCCESS  | retries=0  | label=personal        | subject='Re: Call on Thursday 8th May??' | 
+2025-07-27T12:17:59 | SUCCESS  | retries=0  | label=promotion       | subject='Bad Bunny・Concert Week・Gladiators Live & more' | 
+2025-07-27T12:18:05 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Patrick Flynn - Product Manager 💬' | 
+2025-07-27T12:18:09 | SUCCESS  | retries=0  | label=event_invite    | subject='St Ives CC TTs for 2025' | 
+2025-07-27T12:18:14 | SUCCESS  | retries=0  | label=event_invite    | subject='Marshals Required' | 
+2025-07-27T12:18:20 | SUCCESS  | retries=0  | label=event_invite    | subject='🎫 On sale: Turin Brakes live in Bexhill on Sea 🎫' | 
+2025-07-27T12:18:26 | SUCCESS  | retries=0  | label=promotion       | subject='May Madness ! Huge Topeak Prize Giveaway' | 
+2025-07-27T12:18:32 | SUCCESS  | retries=0  | label=newsletter      | subject='Fwd: Year 13 Summer Careers Newsletter for your information' | 
+2025-07-27T12:18:38 | SUCCESS  | retries=0  | label=newsletter      | subject='Gemini 2.5 Pro 🤖, Pinterest Visual Search 🔍, Cognition KEVIN-32B 💻' | 
+2025-07-27T12:18:45 | SUCCESS  | retries=0  | label=promotion       | subject='Last chance to save up to £900' | 
+2025-07-27T12:18:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Year 13 Summer Careers Newsletter for your information' | 
+2025-07-27T12:18:57 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order has shipped' | 
+2025-07-27T12:19:02 | SUCCESS  | retries=0  | label=other           | subject='[Shokz] Your App Verification Code' | 
+2025-07-27T12:19:28 | SUCCESS  | retries=0  | label=social_notification | subject='James Hardy reshared a post: The IFX…' | 
+2025-07-27T12:19:33 | SUCCESS  | retries=0  | label=newsletter      | subject='Hello Developer: May 2025' | 
+2025-07-27T12:19:39 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI New Structure 🚀, Cursor $900M Fundraise 💰, Listen Labs PPT Generator 🎁' | 
+2025-07-27T12:19:44 | SUCCESS  | retries=0  | label=promotion       | subject='Roger, you could make your savings flourish' | 
+2025-07-27T12:19:53 | SUCCESS  | retries=0  | label=newsletter      | subject='Apple internal coding assistant 💻, ChatGPT Sycophancy 🤖, Phi 4 Reasoning 🧠' | 
+2025-07-27T12:19:59 | SUCCESS  | retries=0  | label=social_notification | subject="You finished Diaspora. What's next?" | 
+2025-07-27T12:20:04 | SUCCESS  | retries=0  | label=social_notification | subject='Congratulate Robert Clark for 12 years at RBC BlueBay Asset Management' | 
+2025-07-27T12:20:10 | SUCCESS  | retries=0  | label=event_invite    | subject="FW: We're getting married!" | 
+2025-07-27T12:20:15 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:20:21 | SUCCESS  | retries=0  | label=newsletter      | subject="Whatever you're shopping for, spend and save 💸" | 
+2025-07-27T12:20:27 | SUCCESS  | retries=0  | label=newsletter      | subject="Take part in our blockbuster 2025 Members' Survey" | 
+2025-07-27T12:20:31 | SUCCESS  | retries=0  | label=general         | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T12:20:39 | SUCCESS  | retries=0  | label=social_notification | subject='Congratulate Sam Sturrock for being promoted to Partner - Head of Regulatory, Li' | 
+2025-07-27T12:20:45 | SUCCESS  | retries=0  | label=other           | subject='Weekly attendance for Isaac Pembery' | 
+2025-07-27T12:20:50 | SUCCESS  | retries=0  | label=personal        | subject='Congrats! You set a personal best on Connington Bridge - Knapwell Bottom' | 
+2025-07-27T12:20:56 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order confirmation' | 
+2025-07-27T12:21:01 | SUCCESS  | retries=0  | label=promotion       | subject='Coming soon: Our newest Galaxy smartphone' | 
+2025-07-27T12:21:29 | SUCCESS  | retries=0  | label=newsletter      | subject='Extra sale discounts now added 🎉' | 
+2025-07-27T12:21:35 | SUCCESS  | retries=0  | label=billing         | subject='May Invoice INV-49943 from Cambridge Fibre Networks Ltd. for Roger Pembery' | 
+2025-07-27T12:21:41 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Howard Marks - Co-chairman & co-founder at Oaktree Capital Managem' | 
+2025-07-27T12:21:47 | SUCCESS  | retries=0  | label=social_notification | subject='James Adams shared a post' | 
+2025-07-27T12:21:53 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:22:01 | SUCCESS  | retries=0  | label=promotion       | subject='Now’s your chance to save up to £900' | 
+2025-07-27T12:22:07 | SUCCESS  | retries=0  | label=newsletter      | subject='Microsoft’s Phi-4-reasoning 🧠, Claude Integrations 🔌, Ai2’s OLMo 2 2️⃣' | 
+2025-07-27T12:22:13 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Monthly Recap' | 
+2025-07-27T12:22:19 | SUCCESS  | retries=0  | label=general         | subject='You may be eligible for a credit limit increase' | 
+2025-07-27T12:22:25 | SUCCESS  | retries=0  | label=event_invite    | subject='News & Club Runs' | 
+2025-07-27T12:22:31 | SUCCESS  | retries=0  | label=social_notification | subject='Frank Chatzigeorgiou shared a post' | 
+2025-07-27T12:22:41 | SUCCESS  | retries=0  | label=event_invite    | subject="Bongo's Bingo, James May, Peter Andre, Taylormania plus many more!" | 
+2025-07-27T12:22:47 | SUCCESS  | retries=0  | label=newsletter      | subject='GPT-4o Rollback 🔙, Anthropic on Export Controls 🚢, Meta’s Protection Tools for A' | 
+2025-07-27T12:22:52 | SUCCESS  | retries=0  | label=billing         | subject='Invoice for Claire Pembery (32KR)' | 
+2025-07-27T12:22:58 | SUCCESS  | retries=0  | label=newsletter      | subject='Durham Newswire May 2025' | 
+2025-07-27T12:23:05 | SUCCESS  | retries=0  | label=event_invite    | subject='A special thank you from Loyle Carner' | 
+2025-07-27T12:23:11 | SUCCESS  | retries=0  | label=personal        | subject='FW:' | 
+2025-07-27T12:23:38 | SUCCESS  | retries=0  | label=social_notification | subject='HAIM・Jin・Beyoncé・Halestorm & more' | 
+2025-07-27T12:23:42 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:23:48 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Maxine Ledger - Sales + Showroom Design Director 💬' | 
+2025-07-27T12:23:55 | SUCCESS  | retries=0  | label=social_notification | subject='Marc Abrahams shared a post' | 
+2025-07-27T12:24:00 | SUCCESS  | retries=0  | label=promotion       | subject='Hurry, Big Savings Now On 🚴' | 
+2025-07-27T12:24:06 | SUCCESS  | retries=0  | label=newsletter      | subject='Meta AI App 📱, Llama API 💻, Relational Graph Transformers 🌐' | 
+2025-07-27T12:24:12 | SUCCESS  | retries=0  | label=newsletter      | subject='Fish & Chips are back! 🐟🍟' | 
+2025-07-27T12:24:17 | SUCCESS  | retries=0  | label=promotion       | subject='Roger, you could make your savings thrive' | 
+2025-07-27T12:24:24 | SUCCESS  | retries=0  | label=billing         | subject='Upcoming Direct Debit payment to Cambridge Fibre Networks Ltd' | 
+2025-07-27T12:24:30 | SUCCESS  | retries=0  | label=promotion       | subject='Win tickets to the England Men’s & Women’s cricket 🏏' | 
+2025-07-27T12:24:35 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice Number: SI119662 for Mrs C Pembery' | 
+2025-07-27T12:24:41 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic Economic Advisory Council 👥, Hugging Face Robot Arm 🦾, Graph Learning ' | 
+2025-07-27T12:24:46 | SUCCESS  | retries=0  | label=event_invite    | subject='Your family member is now eligible for an independent account' | 
+2025-07-27T12:24:55 | SUCCESS  | retries=0  | label=personal        | subject='Fwd:' | 
+2025-07-27T12:25:05 | SUCCESS  | retries=0  | label=other           | subject='Difficult and sensitive news to share from Hills Road' | 
+2025-07-27T12:25:14 | SUCCESS  | retries=0  | label=newsletter      | subject='DeepSeek-R2 2️⃣, xAI raises $20B 💰, Debug ML Deployments Faster 💻' | 
+2025-07-27T12:25:24 | SUCCESS  | retries=0  | label=other           | subject='RE: 93JD0903124 R v BARAKO' | 
+2025-07-27T12:25:35 | SUCCESS  | retries=0  | label=general         | subject='Fwd: Something blooming brilliant for your car?🌸' | 
+2025-07-27T12:25:44 | SUCCESS  | retries=0  | label=billing         | subject='Changes to our Business and Commercial Bank Accounts' | 
+2025-07-27T12:25:52 | SUCCESS  | retries=0  | label=general         | subject='RE: Kind Water "Replacement Water Softener"' | 
+2025-07-27T12:26:02 | SUCCESS  | retries=0  | label=personal        | subject='RE: Kind Water "Replacement Water Softener"' | 
+2025-07-27T12:26:11 | SUCCESS  | retries=0  | label=order_confirmation | subject='RE: Kind Water "Replacement Water Softener"' | 
+2025-07-27T12:26:18 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T12:26:23 | SUCCESS  | retries=0  | label=billing         | subject='Everyone has signed 8TT RM  4 DM draft tenancy agreement' | 
+2025-07-27T12:26:29 | SUCCESS  | retries=0  | label=general         | subject='8TT RM  4 DM draft tenancy agreement has been signed by Claire Pembery' | 
+2025-07-27T12:26:34 | SUCCESS  | retries=0  | label=social_notification | subject='Claire Pembery has viewed 8TT RM  4 DM draft tenancy agreement' | 
+2025-07-27T12:26:40 | SUCCESS  | retries=0  | label=general         | subject='8TT RM  4 DM draft tenancy agreement has been signed by Divine Maxwell' | 
+2025-07-27T12:26:45 | SUCCESS  | retries=0  | label=general         | subject='Divine Maxwell has viewed 8TT RM  4 DM draft tenancy agreement' | 
+2025-07-27T12:26:51 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:26:57 | SUCCESS  | retries=0  | label=newsletter      | subject='Fast Gravel. No Compromise.' | 
+2025-07-27T12:27:02 | SUCCESS  | retries=0  | label=personal        | subject='Working from home?' | 
+2025-07-27T12:27:07 | SUCCESS  | retries=0  | label=other           | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T12:27:15 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Byron – Cambridge | Booking Confirmation (DMN-16900287156)' | 
+2025-07-27T12:27:19 | SUCCESS  | retries=0  | label=other           | subject='Kind Water "Replacement Water Softener"' | 
+2025-07-27T12:27:24 | SUCCESS  | retries=0  | label=newsletter      | subject='New sale stock now available!' | 
+2025-07-27T12:27:30 | SUCCESS  | retries=0  | label=newsletter      | subject='Performance Starts with the Right Components' | 
+2025-07-27T12:27:36 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic Model Welfare 🌐, Adobe’s New Image Model 🖼️, Perplexity & Motorola 🤝' | 
+2025-07-27T12:27:42 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:27:48 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Callum Thomas - Head of Research at Topdown Charts' | 
+2025-07-27T12:27:54 | SUCCESS  | retries=0  | label=personal        | subject='Fwd: Next steps email' | 
+2025-07-27T12:28:01 | SUCCESS  | retries=0  | label=personal        | subject='Fwd: Reference for Mia Perez' | 
+2025-07-27T12:28:07 | SUCCESS  | retries=0  | label=personal        | subject='RE: Reference for Mia Perez' | 
+2025-07-27T12:28:13 | SUCCESS  | retries=0  | label=order_confirmation | subject='FW: Next steps, room 4, 8 The Terrace' | 
+2025-07-27T12:28:19 | SUCCESS  | retries=0  | label=personal        | subject='FW: Next steps, room 4, 8 The Terrace' | 
+2025-07-27T12:28:23 | SUCCESS  | retries=0  | label=event_invite    | subject='🎫 On sale: Turin Brakes live in London 🎫' | 
+2025-07-27T12:28:28 | SUCCESS  | retries=0  | label=social_notification | subject='Rob is now following you on Strava.' | 
+2025-07-27T12:28:35 | SUCCESS  | retries=0  | label=newsletter      | subject='Kate Rusby, The Anglia Comedy Allstars, Baga Chipz, Q The Music plus many more!' | 
+2025-07-27T12:28:41 | SUCCESS  | retries=0  | label=billing         | subject='FW: Your Evernote subscription payment had a problem' | 
+2025-07-27T12:28:47 | SUCCESS  | retries=0  | label=personal        | subject='FW: Next steps email' | 
+2025-07-27T12:28:53 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: Just kidding' | 
+2025-07-27T12:28:59 | SUCCESS  | retries=0  | label=other           | subject='Email regarding missing person - any help in raising awareness appreciated.' | 
+2025-07-27T12:29:06 | SUCCESS  | retries=0  | label=promotion       | subject='OpenAI Image Generation API 💻, Grok Vision 👓, Claude Misuse Report 📑' | 
+2025-07-27T12:29:12 | SUCCESS  | retries=0  | label=newsletter      | subject='The Kooks and Keyshia Cole are heading to Brum! Plus the latest news and more!' | 
+2025-07-27T12:29:18 | SUCCESS  | retries=0  | label=other           | subject='Security alert' | 
+2025-07-27T12:29:24 | SUCCESS  | retries=0  | label=newsletter      | subject='Need to speak to speak to a clinician today? Your AXA Doctor at Hand account has' | 
+2025-07-27T12:29:30 | SUCCESS  | retries=0  | label=newsletter      | subject='Banking & Financial Services Salaries: 2025 Insights Available' | 
+2025-07-27T12:29:36 | SUCCESS  | retries=0  | label=newsletter      | subject='Events Bulletin April 2025' | 
+2025-07-27T12:29:42 | SUCCESS  | retries=0  | label=billing         | subject='Invoice 1070 from Farrow Gardening' | 
+2025-07-27T12:29:49 | SUCCESS  | retries=0  | label=general         | subject='Motionless in White・Jin・All Elite Wrestling & more' | 
+2025-07-27T12:29:55 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:30:00 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance 💬' | 
+2025-07-27T12:30:07 | SUCCESS  | retries=0  | label=newsletter      | subject='Pi-0.5 🤖, AvatarFX by Character.AI 🧑\u200d💻, Cohere Embed 4 4️⃣' | 
+2025-07-27T12:30:13 | SUCCESS  | retries=0  | label=general         | subject="You've been sent £625 📣" | 
+2025-07-27T12:30:20 | SUCCESS  | retries=0  | label=promotion       | subject='Watch Synthesizer V Studio 2 Pro in action' | 
+2025-07-27T12:30:26 | SUCCESS  | retries=0  | label=social_notification | subject='Peter Fruitema commented on Edmund…' | 
+2025-07-27T12:30:31 | SUCCESS  | retries=0  | label=newsletter      | subject='Meet with Apple: New developer activities are here.' | 
+2025-07-27T12:30:38 | SUCCESS  | retries=0  | label=newsletter      | subject='Top Rated Lids for Superior Protection' | 
+2025-07-27T12:30:43 | SUCCESS  | retries=0  | label=review_request  | subject='Year 13 Parent and Carer survey' | 
+2025-07-27T12:30:49 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic on AI Harms ♥️, Instagram AI Teen Protection 🦺, OpenAI & Shopify integ' | 
+2025-07-27T12:30:54 | SUCCESS  | retries=0  | label=promotion       | subject='Sale now live ⏰' | 
+2025-07-27T12:31:01 | SUCCESS  | retries=0  | label=order_confirmation | subject='PRACTICAL BOOKING' | 
+2025-07-27T12:31:08 | SUCCESS  | retries=0  | label=personal        | subject='Re: ENQUIRY' | 
+2025-07-27T12:31:14 | SUCCESS  | retries=0  | label=newsletter      | subject='Still hunting for Easter deals?' | 
+2025-07-27T12:31:20 | SUCCESS  | retries=0  | label=order_confirmation | subject='ENQUIRY' | 
+2025-07-27T12:31:27 | SUCCESS  | retries=0  | label=general         | subject='PRACTICAL CAR AND VAN RENTAL ENQUIRY: (C270)-00001E' | 
+2025-07-27T12:31:33 | SUCCESS  | retries=0  | label=social_notification | subject='Daily Rundown: Busiest international…' | 
+2025-07-27T12:31:40 | SUCCESS  | retries=0  | label=newsletter      | subject='Gemini 2.5 Flash 🔦, Claude Code Best Practices 💻, OpenAI Preparedness Framework ' | 
+2025-07-27T12:31:44 | SUCCESS  | retries=0  | label=social_notification | subject='David commented on Zwift - Triple Loops in London!' | 
+2025-07-27T12:31:49 | SUCCESS  | retries=0  | label=social_notification | subject='Congratulate Gary Tall for 3 years at Columbia Threadneedle Investments EMEA APA' | 
+2025-07-27T12:31:55 | SUCCESS  | retries=0  | label=promotion       | subject='Layer up for less with Easter savings on best-selling kit' | 
+2025-07-27T12:32:01 | SUCCESS  | retries=0  | label=promotion       | subject='Release your inner creative...' | 
+2025-07-27T12:32:06 | SUCCESS  | retries=0  | label=social_notification | subject='Colin Blackett reshared a post: Hari…' | 
+2025-07-27T12:32:12 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:32:17 | SUCCESS  | retries=0  | label=newsletter      | subject='Ample Sound Releases Ample Bass v4' | 
+2025-07-27T12:32:23 | SUCCESS  | retries=0  | label=social_notification | subject='Eoin David Boylan shared a post: What a…' | 
+2025-07-27T12:32:29 | SUCCESS  | retries=0  | label=general         | subject='New Claude Features: Introducing Research and Google Workspace' | 
+2025-07-27T12:32:35 | SUCCESS  | retries=0  | label=event_invite    | subject='Your invitation to inspiring evening talks this April at Hills Road Sixth Form C' | 
+2025-07-27T12:32:42 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI o3 visual models 👓, Mistral Classifier Factory 🔍, Goodfire raises $50M 💰' | 
+2025-07-27T12:32:48 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Larry Fink - Chairman and Chief Executive Officer at BlackRock' | 
+2025-07-27T12:32:54 | SUCCESS  | retries=0  | label=order_confirmation | subject='Please confirm your appointment on Fri 23 May at 1:00pm' | 
+2025-07-27T12:33:00 | SUCCESS  | retries=0  | label=newsletter      | subject='Wishing you a Happy Easter!' | 
+2025-07-27T12:33:04 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt commented on Chris Mills’…' | 
+2025-07-27T12:33:11 | SUCCESS  | retries=0  | label=newsletter      | subject='We Hope That You Have A Good Easter' | 
+2025-07-27T12:33:17 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:33:24 | SUCCESS  | retries=0  | label=promotion       | subject='The Divine Comedy, 2:22 A Ghost Story, Elvana, An Evening with Aggers and Tuffer' | 
+2025-07-27T12:33:31 | SUCCESS  | retries=0  | label=newsletter      | subject='Grok Studio 📃, OpenAI o3 and o4-mini 💻, Generative Modeling Latent Representatio' | 
+2025-07-27T12:33:37 | SUCCESS  | retries=0  | label=promotion       | subject='Gladiators Live Tour & Gurdas Maan are heading to Brum! Plus the latest news and' | 
+2025-07-27T12:33:43 | SUCCESS  | retries=0  | label=newsletter      | subject='Crack open Easter savings 🐣' | 
+2025-07-27T12:33:50 | SUCCESS  | retries=0  | label=other           | subject='Fwd: MPW Cambridge Easter Revision - Reports w/b 7th April' | 
+2025-07-27T12:33:55 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: MPW Cambridge Easter Revision - Reports w/b 7th April' | 
+2025-07-27T12:34:01 | SUCCESS  | retries=0  | label=promotion       | subject='Gladiators Live・All Elite Wrestling・Arcade Fire・OVERHEATED & more' | 
+2025-07-27T12:34:06 | SUCCESS  | retries=0  | label=social_notification | subject='James Adams shared a post' | 
+2025-07-27T12:34:12 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add John McNab 💬' | 
+2025-07-27T12:34:18 | SUCCESS  | retries=0  | label=newsletter      | subject='New Member partner! Save on childcare with Bubble' | 
+2025-07-27T12:34:24 | SUCCESS  | retries=0  | label=promotion       | subject='MoonDream 2.0 🌝, OpenAI Social Network 🫂, Nvidia H20 Exports to China 🇨🇳' | 
+2025-07-27T12:34:29 | SUCCESS  | retries=0  | label=billing         | subject='Please confirm your appointment on Fri 18 April at 1:00pm' | 
+2025-07-27T12:34:36 | SUCCESS  | retries=0  | label=personal        | subject='Re: Payment link for 8.4.25' | 
+2025-07-27T12:34:42 | SUCCESS  | retries=0  | label=newsletter      | subject='A Message from MyUtmost' | 
+2025-07-27T12:34:46 | SUCCESS  | retries=0  | label=social_notification | subject='7 people noticed you' | 
+2025-07-27T12:34:52 | SUCCESS  | retries=0  | label=newsletter      | subject='Bring in Your Outdoor Data!' | 
+2025-07-27T12:34:58 | SUCCESS  | retries=0  | label=newsletter      | subject='The Best Selling Road Bikes - All in One Place' | 
+2025-07-27T12:35:03 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI GPT 4.1 🚀, Hugging Face acquires Pollen Robotics 🤖, DolphinGemma 🐬' | 
+2025-07-27T12:35:09 | SUCCESS  | retries=0  | label=personal        | subject='Payment link for 8.4.25' | 
+2025-07-27T12:35:16 | SUCCESS  | retries=0  | label=event_invite    | subject='Zwift Camp: Inside Out starts today!' | 
+2025-07-27T12:35:21 | SUCCESS  | retries=0  | label=social_notification | subject='Sunil Chadda shared a post:…' | 
+2025-07-27T12:35:27 | SUCCESS  | retries=0  | label=promotion       | subject='Synthesizer V Studio 2 Pro is here!' | 
+2025-07-27T12:35:33 | SUCCESS  | retries=0  | label=newsletter      | subject='Safe Superintelligence worth $32B 🤑, Airtable AI Assistant 🤖, OpenAI Verified ID' | 
+2025-07-27T12:35:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Want to do even more with reMarkable?' | 
+2025-07-27T12:35:45 | SUCCESS  | retries=0  | label=promotion       | subject='Time is running out for Easter orders - and new stock now available🐰' | 
+2025-07-27T12:35:51 | SUCCESS  | retries=0  | label=social_notification | subject='Michael Hilton shared a post: If you…' | 
+2025-07-27T12:35:57 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:36:03 | SUCCESS  | retries=0  | label=other           | subject='Security alert' | 
+2025-07-27T12:36:09 | SUCCESS  | retries=0  | label=promotion       | subject='Last call: FREE bar with your Easter order until midnight!' | 
+2025-07-27T12:36:14 | SUCCESS  | retries=0  | label=newsletter      | subject='Top Deals. Big Brands. Better Rides.' | 
+2025-07-27T12:36:20 | SUCCESS  | retries=0  | label=general         | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T12:36:25 | SUCCESS  | retries=0  | label=general         | subject='Special delivery: Courier' | 
+2025-07-27T12:36:31 | SUCCESS  | retries=0  | label=social_notification | subject='Daily Rundown: The rise of…' | 
+2025-07-27T12:36:36 | SUCCESS  | retries=0  | label=billing         | subject='View your latest statement online' | 
+2025-07-27T12:36:42 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new message' | 
+2025-07-27T12:36:48 | SUCCESS  | retries=0  | label=newsletter      | subject='ChatGPT Memory 🧠, Mira Murati fundraising 💰, Amazon’s AI Investment 🤖' | 
+2025-07-27T12:36:54 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Lewis Hamilton - F1 Driver at Ferrari' | 
+2025-07-27T12:37:00 | SUCCESS  | retries=0  | label=newsletter      | subject='🌺 Roundhouse Three Sixty is in full bloom, new gigs announced & more...' | 
+2025-07-27T12:37:05 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new message' | 
+2025-07-27T12:37:12 | SUCCESS  | retries=0  | label=newsletter      | subject='Mac DeMarco, UK Pink Floyd Experience, William Dalrymple, The Céline Experience ' | 
+2025-07-27T12:37:18 | SUCCESS  | retries=0  | label=event_invite    | subject='News & Club Runs' | 
+2025-07-27T12:37:25 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: Bike fit' | 
+2025-07-27T12:37:29 | SUCCESS  | retries=0  | label=newsletter      | subject='Top-Rated Road Helmets at the Best Prices' | 
+2025-07-27T12:37:35 | SUCCESS  | retries=0  | label=newsletter      | subject='Google Ironwood TPU 💻, Claude Max 🤖, Grok API 📚' | 
+2025-07-27T12:37:42 | SUCCESS  | retries=0  | label=newsletter      | subject='Deadly Live! & ASAP Natin ‘To are heading to Brum! Plus the latest news and more' | 
+2025-07-27T12:37:47 | SUCCESS  | retries=0  | label=event_invite    | subject='A special thank you from Little Simz' | 
+2025-07-27T12:37:52 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, I’m still waiting for your response' | 
+2025-07-27T12:37:58 | SUCCESS  | retries=0  | label=billing         | subject='Your latest statement is ready' | 
+2025-07-27T12:38:04 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Booking Confirmation - Noshe Cambridge' | 
+2025-07-27T12:38:11 | SUCCESS  | retries=0  | label=promotion       | subject='Little Simz・PinkPantheress・Slayer・Jessie Reyez & more' | 
+2025-07-27T12:38:16 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new invitation' | 
+2025-07-27T12:38:21 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Skannd Tyagi - Chief Dreamer 💬' | 
+2025-07-27T12:38:27 | SUCCESS  | retries=0  | label=newsletter      | subject='State of AI Index 2025 🤖, Waymo’s Privacy Concerns 🚗, Together AI DeepCoder 💻' | 
+2025-07-27T12:38:33 | SUCCESS  | retries=0  | label=newsletter      | subject='ROGER, staying safe online' | 
+2025-07-27T12:38:39 | SUCCESS  | retries=0  | label=newsletter      | subject='Planning for and Managing Public Health Emergencies' | 
+2025-07-27T12:38:45 | SUCCESS  | retries=0  | label=newsletter      | subject='New Guidance on Consent or Pay Models' | 
+2025-07-27T12:38:51 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new invitation' | 
+2025-07-27T12:38:58 | SUCCESS  | retries=0  | label=general         | subject='FW: Text' | 
+2025-07-27T12:39:05 | SUCCESS  | retries=0  | label=newsletter      | subject='Text' | 
+2025-07-27T12:39:12 | SUCCESS  | retries=0  | label=newsletter      | subject='Hello Developer: April 2025' | 
+2025-07-27T12:39:18 | SUCCESS  | retries=0  | label=event_invite    | subject='🎫 On sale: Blossoms live in Derby 🎫' | 
+2025-07-27T12:39:25 | SUCCESS  | retries=0  | label=personal        | subject='Re: 8th May' | 
+2025-07-27T12:39:32 | SUCCESS  | retries=0  | label=billing         | subject='Your latest statement is ready' | 
+2025-07-27T12:39:40 | SUCCESS  | retries=0  | label=newsletter      | subject='Llama 4 Rumors 🗣️, Krea raises $83M 💰, Amazon Nova Reel 📹' | 
+2025-07-27T12:39:48 | SUCCESS  | retries=0  | label=promotion       | subject='The all-new Levo Gen 4 is here' | 
+2025-07-27T12:39:57 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in Hedge Fund Group (HFG) - Hedge Funds, Alternative In' | 
+2025-07-27T12:40:04 | SUCCESS  | retries=0  | label=personal        | subject='8th May' | 
+2025-07-27T12:40:12 | SUCCESS  | retries=0  | label=personal        | subject='Re: Next session' | 
+2025-07-27T12:40:18 | SUCCESS  | retries=0  | label=personal        | subject='Re: Next session' | 
+2025-07-27T12:40:20 | SUCCESS  | retries=0  | label=personal        | subject='Re: Next session' | 
+2025-07-27T12:40:25 | SUCCESS  | retries=0  | label=billing         | subject='Invoice 1063 from Farrow Gardening' | 
+2025-07-27T12:40:30 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice 1062 from Farrow Gardening' | 
+2025-07-27T12:40:35 | SUCCESS  | retries=0  | label=newsletter      | subject='Get ready for one hell of a ride!' | 
+2025-07-27T12:40:39 | SUCCESS  | retries=0  | label=newsletter      | subject='We have updated our Privacy Policy' | 
+2025-07-27T12:40:45 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new invitation' | 
+2025-07-27T12:40:54 | SUCCESS  | retries=0  | label=promotion       | subject='Llama 4 🦙, Midjourney V7 7️⃣, AI agent cyberattacks 🤖' | 
+2025-07-27T12:41:01 | SUCCESS  | retries=0  | label=newsletter      | subject='Finalising your Goodman Masson application' | 
+2025-07-27T12:41:08 | SUCCESS  | retries=0  | label=shipping_update | subject='Your Royal Mail parcel from Chococo Wholesale Limited has been delivered' | 
+2025-07-27T12:41:16 | SUCCESS  | retries=0  | label=general         | subject='Get ready for upcoming changes: important information from Companies House' | 
+2025-07-27T12:41:24 | SUCCESS  | retries=0  | label=shipping_update | subject='Your Royal Mail parcel from Chococo Wholesale Limited is due to be delivered tod' | 
+2025-07-27T12:41:27 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new invitation' | 
+2025-07-27T12:41:32 | SUCCESS  | retries=0  | label=order_confirmation | subject='BLL1RY | Questions about your booking?' | 
+2025-07-27T12:41:37 | SUCCESS  | retries=0  | label=promotion       | subject='Ready for the ride? Kit out for less' | 
+2025-07-27T12:41:42 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Google Play Order Receipt from 6 Apr 2025' | 
+2025-07-27T12:41:46 | SUCCESS  | retries=0  | label=billing         | subject='Important notice: Your trial is over' | 
+2025-07-27T12:41:55 | SUCCESS  | retries=0  | label=general         | subject='Your Week Ahead' | 
+2025-07-27T12:42:02 | SUCCESS  | retries=0  | label=other           | subject='Your single-use code' | 
+2025-07-27T12:42:08 | SUCCESS  | retries=0  | label=social_notification | subject='You have 1 new invitation' | 
+2025-07-27T12:42:16 | SUCCESS  | retries=0  | label=social_notification | subject='Steve commented on Morning Ride!' | 
+2025-07-27T12:42:24 | SUCCESS  | retries=0  | label=general         | subject='Weekly attendance for Isaac Pembery' | 
+2025-07-27T12:42:32 | SUCCESS  | retries=0  | label=billing         | subject='Important information about your rental' | 
+2025-07-27T12:42:40 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Royal Mail parcel from Chococo Wholesale Limited is on its way' | 
+2025-07-27T12:42:48 | SUCCESS  | retries=0  | label=newsletter      | subject='Y13 - end of term - important info and updates - with thanks' | 
+2025-07-27T12:42:56 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T12:43:04 | SUCCESS  | retries=0  | label=event_invite    | subject='Your invitation to inspiring evening talks this April at Hills Road Sixth Form C' | 
+2025-07-27T12:43:12 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:43:20 | SUCCESS  | retries=0  | label=newsletter      | subject='Epic new updates and features are about to drop' | 
+2025-07-27T12:43:27 | SUCCESS  | retries=0  | label=social_notification | subject="You finished Autonomous. What's next?" | 
+2025-07-27T12:43:37 | SUCCESS  | retries=0  | label=billing         | subject='Fw: Update on HMRC Making Tax Digital changes' | 
+2025-07-27T12:43:48 | SUCCESS  | retries=0  | label=newsletter      | subject='DeepMind AGI Safety 🦺, OpenAI Nonprofit Guidance Commission 👥, Hate Speech Bench' | 
+2025-07-27T12:43:57 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Stephen A. Schwarzman - Chairman, CEO & Co-Founder at Blackstone' | 
+2025-07-27T12:44:06 | SUCCESS  | retries=0  | label=general         | subject='Trump Tariffs' | 
+2025-07-27T12:44:12 | SUCCESS  | retries=0  | label=social_notification | subject='Anthony Gaughan shared a post' | 
+2025-07-27T12:44:18 | SUCCESS  | retries=0  | label=promotion       | subject='Summer of Stadiums ☀️ Chris Brown・Beyoncé & more' | 
+2025-07-27T12:44:24 | SUCCESS  | retries=0  | label=promotion       | subject='Saving Grace Podcast Live, CMAT, Bum Bum Tam Tam, A Fairytale for Christmas plus' | 
+2025-07-27T12:44:29 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:44:35 | SUCCESS  | retries=0  | label=promotion       | subject='Team Kits Just Got Better – Exclusive WTRL x Verge Offer Inside!' | 
+2025-07-27T12:44:40 | SUCCESS  | retries=0  | label=newsletter      | subject='Durham Newswire April 2025' | 
+2025-07-27T12:44:45 | SUCCESS  | retries=0  | label=newsletter      | subject='More daylight, more miles ☀️' | 
+2025-07-27T12:44:50 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: The Carpenters Arms | Booking Confirmation (DMN-16897812947)' | 
+2025-07-27T12:44:57 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: MPW Cambridge Easter Revision 2025' | 
+2025-07-27T12:45:01 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: MPW Cambridge Easter Revision 2025' | 
+2025-07-27T12:45:07 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic’s LLM for Education 📚, AI & UFC 🥊, Claude for US Government 🇺🇸' | 
+2025-07-27T12:45:12 | SUCCESS  | retries=0  | label=order_confirmation | subject='Your Chococo order confirmation' | 
+2025-07-27T12:45:18 | SUCCESS  | retries=0  | label=promotion       | subject='🆕 The World of Hans Zimmer and Monster Jam Ramped Up are heading to Brum! Plus t' | 
+2025-07-27T12:45:24 | SUCCESS  | retries=0  | label=promotion       | subject='A very special offer on our Easter Eggs 🥚' | 
+2025-07-27T12:45:31 | SUCCESS  | retries=0  | label=billing         | subject='April Invoice INV-48353 from Cambridge Fibre Networks Ltd. for Roger Pembery' | 
+2025-07-27T12:45:36 | SUCCESS  | retries=0  | label=social_notification | subject='Lee Duddell shared a post: #UX writing…' | 
+2025-07-27T12:45:41 | SUCCESS  | retries=0  | label=promotion       | subject='Chris Brown・Lady Gaga・JLS & more' | 
+2025-07-27T12:45:47 | SUCCESS  | retries=0  | label=promotion       | subject='Toshi Straps spring sale on now' | 
+2025-07-27T12:45:53 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI raises $40B 💰, Gemini Robotics Models 🤖, OpenAI Academy 📚' | 
+2025-07-27T12:45:58 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Monthly Recap' | 
+2025-07-27T12:46:03 | SUCCESS  | retries=0  | label=event_invite    | subject='Be the first to see The Return' | 
+2025-07-27T12:46:08 | SUCCESS  | retries=0  | label=newsletter      | subject='Jake Bugg, The Libertines live: personalised concert recommendations near you' | 
+2025-07-27T12:46:12 | SUCCESS  | retries=0  | label=order_confirmation | subject='Invoice for Claire Pembery (32KR)' | 
+2025-07-27T12:46:17 | SUCCESS  | retries=0  | label=social_notification | subject='Mark Andrews reshared a post: 📢Read…' | 
+2025-07-27T12:46:23 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:46:28 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add Nick Gordon - Head of Investment Data Assurance' | 
+2025-07-27T12:46:33 | SUCCESS  | retries=0  | label=newsletter      | subject='Top Road Helmets – Unbeatable Prices' | 
+2025-07-27T12:46:39 | SUCCESS  | retries=0  | label=personal        | subject='Re: Notice period' | 
+2025-07-27T12:46:44 | SUCCESS  | retries=0  | label=social_notification | subject='Don’t miss conversations in Hedge Fund Group (HFG) - Hedge Funds, Alternative In' | 
+2025-07-27T12:46:50 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI Open Weight Model 🌐, Amazon Nova Act 🤖, Runway New Video Model 📹' | 
+2025-07-27T12:46:55 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt commented on Richard…' | 
+2025-07-27T12:47:01 | SUCCESS  | retries=0  | label=personal        | subject='Fwd: MPW Cambridge Easter Revision 2025' | 
+2025-07-27T12:47:06 | SUCCESS  | retries=0  | label=newsletter      | subject='Weekly\xa0workout\xa0recap' | 
+2025-07-27T12:47:12 | SUCCESS  | retries=0  | label=promotion       | subject='xAI acquires X 🤝, Perplexity addresses rumors 🗣️, ARC-AGI-2 & ARC Prize 2025 💰' | 
+2025-07-27T12:47:18 | SUCCESS  | retries=0  | label=personal        | subject='Re: Notice period' | 
+2025-07-27T12:47:23 | SUCCESS  | retries=0  | label=order_confirmation | subject='Leavers hoodies' | 
+2025-07-27T12:47:28 | SUCCESS  | retries=0  | label=promotion       | subject='Last Chance to RIDE! SPIN! WIN!' | 
+2025-07-27T12:47:34 | SUCCESS  | retries=0  | label=promotion       | subject='Last chance to save on Easter Gift Sets ⏰' | 
+2025-07-27T12:47:40 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:47:45 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Week Ahead' | 
+2025-07-27T12:47:51 | SUCCESS  | retries=0  | label=newsletter      | subject='Spring into Adventure: Explore with Gravel Bikes' | 
+2025-07-27T12:47:56 | SUCCESS  | retries=0  | label=personal        | subject='Ryanair Travel Itinerary' | 
+2025-07-27T12:48:02 | SUCCESS  | retries=0  | label=general         | subject='Activation code' | 
+2025-07-27T12:48:07 | SUCCESS  | retries=0  | label=general         | subject='Prevent loss of service. Only 7 days left in your free trial.' | 
+2025-07-27T12:48:18 | SUCCESS  | retries=1  | label=personal        | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T12:48:23 | SUCCESS  | retries=0  | label=personal        | subject='Hi Roger, we noticed a new sign in to your Dropbox account' | 
+2025-07-27T12:48:28 | SUCCESS  | retries=0  | label=social_notification | subject="You finished Woken Furies. What's next?" | 
+2025-07-27T12:48:33 | SUCCESS  | retries=0  | label=general         | subject='Weekly attendance for Isaac Pembery' | 
+2025-07-27T12:48:38 | SUCCESS  | retries=0  | label=event_invite    | subject='Rhino Racing WTRL TTT sign-up success.' | 
+2025-07-27T12:48:44 | SUCCESS  | retries=0  | label=promotion       | subject='Easter Gift Sets  |  Quiz Results  |  New Mint Choc Chip Slabs' | 
+2025-07-27T12:48:49 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:48:54 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, follow Dan McCrum - Investigative Reporter at Financial Times' | 
+2025-07-27T12:48:59 | SUCCESS  | retries=0  | label=promotion       | subject='Win a £100 Tredz Voucher' | 
+2025-07-27T12:49:04 | SUCCESS  | retries=0  | label=newsletter      | subject='Anthropic LLM Traces 🤖, OpenAI Cybersecurity Grant 💰, Claude Usage Trends 📃' | 
+2025-07-27T12:49:11 | SUCCESS  | retries=0  | label=general         | subject="You've been sent £625 📣" | 
+2025-07-27T12:49:16 | SUCCESS  | retries=0  | label=personal        | subject='A reminder for our upcoming meeting' | 
+2025-07-27T12:49:21 | SUCCESS  | retries=0  | label=billing         | subject='Upcoming Direct Debit payment to Cambridge Fibre Networks Ltd' | 
+2025-07-27T12:49:25 | SUCCESS  | retries=0  | label=order_confirmation | subject='Document from my reMarkable: Husain' | 
+2025-07-27T12:49:31 | SUCCESS  | retries=0  | label=promotion       | subject='Cian Ducrot, John Simpson, Baga Chipz plus many more!' | 
+2025-07-27T12:49:36 | SUCCESS  | retries=0  | label=newsletter      | subject='News & Club Runs' | 
+2025-07-27T12:49:41 | SUCCESS  | retries=0  | label=newsletter      | subject='[Product Update] Changes to the Google Cloud third-party Subprocessors list' | 
+2025-07-27T12:49:46 | SUCCESS  | retries=0  | label=newsletter      | subject='Our Best-Selling MTB & E-MTB Bikes – Find Your Perfect Ride' | 
+2025-07-27T12:49:52 | SUCCESS  | retries=0  | label=newsletter      | subject='Member News: People power' | 
+2025-07-27T12:49:58 | SUCCESS  | retries=0  | label=promotion       | subject='Amazon Personalized Shopping 🛍️, Grok AI on Telegram 📱, OpenAI & Anthropic MCP 💻' | 
+2025-07-27T12:50:03 | SUCCESS  | retries=0  | label=promotion       | subject='Get a Galaxy Fit3 and free gifts worth £138' | 
+2025-07-27T12:50:09 | SUCCESS  | retries=0  | label=event_invite    | subject='🆕 JLS, Madness, Bastille and The Wombats are all heading to Birmingham!' | 
+2025-07-27T12:50:14 | SUCCESS  | retries=0  | label=event_invite    | subject='A reminder for our upcoming meeting' | 
+2025-07-27T12:50:19 | SUCCESS  | retries=0  | label=newsletter      | subject='Ofsted Inspection of Hills Road Sixth Form College 1st April 2025' | 
+2025-07-27T12:50:25 | SUCCESS  | retries=0  | label=promotion       | subject='Save on all Easter Gift Sets until Monday 🥚' | 
+2025-07-27T12:50:31 | SUCCESS  | retries=0  | label=newsletter      | subject='The Final Stage of Zwift Big Spin is Here!' | 
+2025-07-27T12:50:36 | SUCCESS  | retries=0  | label=promotion       | subject='Lady Gaga・JLS・Download Festival・Sugababes & more' | 
+2025-07-27T12:50:41 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, you’re on a roll on LinkedIn!' | 
+2025-07-27T12:50:47 | SUCCESS  | retries=0  | label=review_request  | subject='Tax Year End Queries' | 
+2025-07-27T12:50:52 | SUCCESS  | retries=0  | label=social_notification | subject='Trevor Hunt commented on Chris Mills’…' | 
+2025-07-27T12:50:57 | SUCCESS  | retries=0  | label=newsletter      | subject='OpenAI Image Generation 🖼️, DeepSeek-V3-0324 Release 🤖, Qwen 2.5 32B Vision Lang' | 
+2025-07-27T12:51:03 | SUCCESS  | retries=0  | label=event_invite    | subject='FW: Employer Fair @ Hills Road on Thursday!' | 
+2025-07-27T12:51:08 | SUCCESS  | retries=0  | label=billing         | subject='Invoice Number: SI119508 for Mrs C Pembery' | 
+2025-07-27T12:51:14 | SUCCESS  | retries=0  | label=newsletter      | subject='Events Bulletin March 2025' | 
+2025-07-27T12:51:17 | SUCCESS  | retries=0  | label=event_invite    | subject='Save the date: Apple Worldwide Developers Conference 2025.' | 
+2025-07-27T12:51:24 | SUCCESS  | retries=0  | label=promotion       | subject='Get ready for spring – Upgrade your tyres today' | 
+2025-07-27T12:51:27 | SUCCESS  | retries=0  | label=social_notification | subject='Roger, add John Trainor - Head of Engineering - Life and Wealth Technology' | 
+2025-07-27T12:51:32 | SUCCESS  | retries=0  | label=newsletter      | subject='Your Spring Discount Code Inside...' | 
+2025-07-27T12:51:38 | SUCCESS  | retries=0  | label=general         | subject='Delivery issues for Google email accounts - may require action' | 
+2025-07-27T12:51:44 | SUCCESS  | retries=0  | label=order_confirmation | subject='Thank You For Your Purchase [000M557C1]' | 
+2025-07-27T12:51:50 | SUCCESS  | retries=0  | label=personal        | subject='Re: Next session' | 
+2025-07-27T12:51:55 | SUCCESS  | retries=0  | label=other           | subject='Important - Landlord reference for Flora Elizabeth Littlewood' | 
+2025-07-27T12:52:00 | SUCCESS  | retries=0  | label=personal        | subject='Notice period' | 
+2025-07-27T12:52:04 | SUCCESS  | retries=0  | label=event_invite    | subject='Royal London - You are invited to apply' | 
+2025-07-27T12:52:10 | SUCCESS  | retries=0  | label=social_notification | subject='I want to connect' | 
+2025-07-27T12:52:15 | SUCCESS  | retries=0  | label=personal        | subject='RLAM - Project Manager' | 
+2025-07-27T12:52:20 | SUCCESS  | retries=0  | label=order_confirmation | subject='FreeAgent - subscription payment failed for Hatchcloud Limited' | 
+2025-07-27T12:52:25 | SUCCESS  | retries=0  | label=general         | subject='Thank you for registering with us.' | 
+2025-07-27T12:52:30 | SUCCESS  | retries=0  | label=order_confirmation | subject='This is your confirmation email for booking : 1BGGC' | 
+2025-07-27T12:52:35 | SUCCESS  | retries=0  | label=event_invite    | subject='bp pulse EVIP Lounge confirmation' | 
+2025-07-27T12:52:40 | SUCCESS  | retries=0  | label=billing         | subject='OpenAI API Auto-recharge Failed' | 
+2025-07-27T12:52:45 | SUCCESS  | retries=0  | label=personal        | subject='Re: Your email to Dr. Scaife via Counselling Directory' | 
+2025-07-27T12:52:54 | SUCCESS  | retries=0  | label=personal        | subject='Re: Your email to Dr. Scaife via Counselling Directory' | 
+2025-07-27T12:53:03 | SUCCESS  | retries=0  | label=event_invite    | subject='Re: ECCA Road Race 2024 - late entry on the day?' | 
+2025-07-27T12:53:11 | SUCCESS  | retries=0  | label=personal        | subject='Re: Good luck!' | 
+2025-07-27T12:53:18 | SUCCESS  | retries=0  | label=event_invite    | subject='Forthcoming rounds of the Junior RR Series' | 
+2025-07-27T12:53:27 | SUCCESS  | retries=0  | label=event_invite    | subject='The Haverhill Running Festival is in one month!' | 
+2025-07-27T12:53:35 | SUCCESS  | retries=0  | label=billing         | subject='Re: 32 Keynes Road - Taking over management' | 
+2025-07-27T12:53:44 | SUCCESS  | retries=0  | label=general         | subject='Milton Cross Race - Refund / Donation Info' | 
+2025-07-27T12:53:52 | SUCCESS  | retries=0  | label=event_invite    | subject='Open Time Trials' | 
+2025-07-27T12:53:59 | SUCCESS  | retries=0  | label=general         | subject='Support in Maths' | 
+2025-07-27T12:54:06 | SUCCESS  | retries=0  | label=personal        | subject='Re: enquiry from instagram' | 
+2025-07-27T12:54:14 | SUCCESS  | retries=0  | label=personal        | subject='Re: 78PM: Pembery: signed ToR' | 
+2025-07-27T12:54:19 | SUCCESS  | retries=0  | label=personal        | subject='RE: fencing / cupboard works' | 
+2025-07-27T12:54:22 | SUCCESS  | retries=0  | label=order_confirmation | subject='[Full Gas]: Order #6180 - Winter Circuit Series Membership' | 
+2025-07-27T12:54:26 | SUCCESS  | retries=0  | label=general         | subject='RE: JC32522 - 87 Gilbert Road - Fencing and Internal Carpentry Works' | 
+2025-07-27T12:54:31 | SUCCESS  | retries=0  | label=personal        | subject='Earlier Conversation' | 
+2025-07-27T12:54:35 | SUCCESS  | retries=0  | label=event_invite    | subject='Eastern Cyclo-Cross League' | 
+2025-07-27T12:54:40 | SUCCESS  | retries=0  | label=personal        | subject='Review/Catch Up' | 
+2025-07-27T12:54:44 | SUCCESS  | retries=0  | label=order_confirmation | subject='INFO SNCF NOMAD TRAIN – Confirmation de réservation pour le DV E6NWD9' | 
+2025-07-27T12:54:48 | SUCCESS  | retries=0  | label=other           | subject='☀️ Cambridge Solar / Initial enquiry follow up' | 
+2025-07-27T12:54:52 | SUCCESS  | retries=0  | label=general         | subject='charity link' | 
+2025-07-27T12:54:56 | SUCCESS  | retries=0  | label=social_notification | subject='caroline commented on Morning Ride!' | 
+2025-07-27T12:55:00 | SUCCESS  | retries=0  | label=personal        | subject='RE: 87 Gilbert Road pictures: fly curtain with wood baton for maintenance.' | 
+2025-07-27T12:55:05 | SUCCESS  | retries=0  | label=social_notification | subject='C2M - Menu choices' | 
+2025-07-27T12:55:10 | SUCCESS  | retries=0  | label=personal        | subject='Touch Base' | 
+2025-07-27T12:55:13 | SUCCESS  | retries=0  | label=general         | subject='new programme' | 
+2025-07-27T12:55:18 | SUCCESS  | retries=0  | label=general         | subject='Fwd: Re: Training and races after Easter' | 
+2025-07-27T12:55:21 | SUCCESS  | retries=0  | label=billing         | subject='Your subscription for donan.uk will renew on 23 April 2023' | 
+2025-07-27T12:55:26 | SUCCESS  | retries=0  | label=social_notification | subject='🎉 Sauce just shared "Updating from 0.13.1" for patrons only' | 
+2025-07-27T12:55:30 | SUCCESS  | retries=0  | label=order_confirmation | subject='easyJet booking reference: K54ZGT8' | 
+2025-07-27T12:55:33 | SUCCESS  | retries=0  | label=order_confirmation | subject='easyJet booking reference: K54ZGT8' | 
+2025-07-27T12:55:36 | SUCCESS  | retries=0  | label=order_confirmation | subject='easyJet booking reference: K54ZGT8' | 
+2025-07-27T12:55:39 | SUCCESS  | retries=0  | label=order_confirmation | subject='easyJet booking reference: K54ZGT8' | 
+2025-07-27T12:55:42 | SUCCESS  | retries=0  | label=order_confirmation | subject='easyJet booking reference: K54ZGT8' | 
+2025-07-27T12:55:47 | SUCCESS  | retries=0  | label=general         | subject='RE: File your confirmation statement now for EZ GAINS LTD 13893838' | 
+2025-07-27T12:55:51 | SUCCESS  | retries=0  | label=general         | subject='[Donan Cleaning Products] Your Shopify Payments payouts have been paused' | 
+2025-07-27T12:55:55 | SUCCESS  | retries=0  | label=other           | subject='Long Road Sixth Form College - application status change for Isaac Pembery' | 
+2025-07-27T12:56:00 | SUCCESS  | retries=0  | label=event_invite    | subject='Long Road Sixth Form College Advice and Guidance Meetings – Bookings Now Open!' | 
+2025-07-27T12:56:04 | SUCCESS  | retries=0  | label=promotion       | subject='Fwd: Ample Sound release ABTR6 with an Electric Bass Promotion' | 
+2025-07-27T12:56:09 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: Results and more races' | 
+2025-07-27T12:56:13 | SUCCESS  | retries=0  | label=newsletter      | subject='Fwd: Proud of Teachers 💜 £300 off - TUI | 20% off - JD Sports' | 
+2025-07-27T12:56:17 | SUCCESS  | retries=0  | label=social_notification | subject='Re: Roger Pembery shared "78PM.PhotosForJo" with you' | 
+2025-07-27T12:56:20 | SUCCESS  | retries=0  | label=personal        | subject='Prescribed information to be signed by Anna and I' | 
+2025-07-27T12:56:25 | SUCCESS  | retries=0  | label=personal        | subject='RE: Some digging at 85 Gilbert on Tuesday' | 
+2025-07-27T12:56:29 | SUCCESS  | retries=0  | label=personal        | subject='My name in the contract' | 
+2025-07-27T12:56:33 | SUCCESS  | retries=0  | label=general         | subject='Re: [#272373] shifter button on right hood stopped working' | 
+2025-07-27T12:56:38 | SUCCESS  | retries=0  | label=personal        | subject='Re: 8, The Terrace: Room 2 (top floor)' | 
+2025-07-27T12:56:46 | SUCCESS  | retries=0  | label=review_request  | subject='File your confirmation statement now for HATCHCLOUD LTD 11663596' | 
+2025-07-27T12:56:53 | SUCCESS  | retries=0  | label=general         | subject='Applications are open' | 
+2025-07-27T12:57:01 | SUCCESS  | retries=0  | label=personal        | subject='RE: Introduction' | 
+2025-07-27T12:57:08 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: OEP Live ! - Order # 1539010' | 
+2025-07-27T12:57:15 | SUCCESS  | retries=0  | label=social_notification | subject='INVITATION: Dunelm Days 2022 in Cambridge' | 
+2025-07-27T12:57:22 | SUCCESS  | retries=0  | label=personal        | subject='Introduction' | 
+2025-07-27T12:57:30 | SUCCESS  | retries=0  | label=general         | subject='New message about changes to your VAT business details' | 
+2025-07-27T12:57:39 | SUCCESS  | retries=0  | label=review_request  | subject='Private - Change to Terms & Conditions of Employment - Roger Pembery' | 
+2025-07-27T12:57:47 | SUCCESS  | retries=0  | label=personal        | subject='Hi' | 
+2025-07-27T12:57:53 | SUCCESS  | retries=0  | label=billing         | subject='RE: ID Verification' | 
+2025-07-27T12:58:02 | SUCCESS  | retries=0  | label=general         | subject='FW: FIL - Offer - Roger Pembery - J30317 Senior Project Manager' | 
+2025-07-27T12:58:10 | SUCCESS  | retries=0  | label=personal        | subject='ID Verification' | 
+2025-07-27T12:58:18 | SUCCESS  | retries=0  | label=personal        | subject='Re: Re: 113 Darwin Drive contacts' | 
+2025-07-27T12:58:24 | SUCCESS  | retries=0  | label=review_request  | subject='Fidelity International - Offer of Employment - Roger Pembery' | 
+2025-07-27T12:58:30 | SUCCESS  | retries=0  | label=event_invite    | subject='Fuel Your Adventures/The Bicycle Ambulance Camb Gravel Jam!' | 
+2025-07-27T12:58:35 | SUCCESS  | retries=0  | label=order_confirmation | subject='Re: paid: Order and Balance Summary - Peak Tour Order #396891' | 
+2025-07-27T12:58:40 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: Fidelity International - J30317 Senior Project Manager - Invitation to Inte' | 
+2025-07-27T12:58:45 | SUCCESS  | retries=0  | label=billing         | subject='Invoice INV-0704 from COEL for Roger Pembery' | 
+2025-07-27T12:58:50 | SUCCESS  | retries=0  | label=personal        | subject='Re: 78 Petersfield Mansions: draft contract for review.' | 
+2025-07-27T12:58:56 | SUCCESS  | retries=0  | label=personal        | subject='Re: S21 notice revocation' | 
+2025-07-27T12:59:00 | SUCCESS  | retries=0  | label=billing         | subject='Sale of 113 Darwin Drive, Cambridge, Cambridgeshire CB4 3HQ [BIRKETTS-LEGAL.FID1' | 
+2025-07-27T12:59:05 | SUCCESS  | retries=0  | label=personal        | subject='Review' | 
+2025-07-27T12:59:11 | SUCCESS  | retries=0  | label=event_invite    | subject='FW: Roger Pembery Interview Confirmation' | 
+2025-07-27T12:59:16 | SUCCESS  | retries=0  | label=personal        | subject='Sale of 113 Darwin Drive, Cambridge, Cambridgeshire CB4 3HQ [BIRKETTS-LEGAL.FID1' | 
+2025-07-27T12:59:22 | SUCCESS  | retries=0  | label=event_invite    | subject='Fwd: URGENT: What is Medicine Really Like? Zoom Link Reminder' | 
+2025-07-27T12:59:27 | SUCCESS  | retries=0  | label=order_confirmation | subject="I am sharing 'Invoice' with you" | 
+2025-07-27T12:59:32 | SUCCESS  | retries=0  | label=order_confirmation | subject='Fwd: Details for Your Upcoming Stay at Hotel Indigo, Confirmation # 41889656' | 
+2025-07-27T12:59:36 | SUCCESS  | retries=0  | label=general         | subject='78 Petersfield Mansions CB1 1BB' | 

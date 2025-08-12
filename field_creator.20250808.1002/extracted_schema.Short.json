@@ -1,0 +1,343 @@
+{
+  "shared_fields": [],
+  "classifications": {
+    "social_notification": [
+      {
+        "name": "type",
+        "description": "The type of notification (social_notification)"
+      },
+      {
+        "name": "from",
+        "description": "The sender's name"
+      },
+      {
+        "name": "recipient",
+        "description": "The recipient's name"
+      },
+      {
+        "name": "eventName",
+        "description": "The name of the event being notified about"
+      },
+      {
+        "name": "eventDates",
+        "description": "The dates when the event occurs"
+      },
+      {
+        "name": "watchPartyRideKit",
+        "description": "Any relevant kits or accessories for watch parties or rides related to the event"
+      }
+    ],
+    "newsletter": [
+      {
+        "name": "Subject",
+        "description": "A concise summary of the newsletter content, intended to entice recipients to open."
+      },
+      {
+        "name": "Body",
+        "description": "The main content of the newsletter, detailing news, products, promotions, etc."
+      },
+      {
+        "name": "From",
+        "description": "Email address and name of the sender, often used for branding purposes."
+      },
+      {
+        "name": "To",
+        "description": "Recipient's email address, determining who receives this newsletter."
+      },
+      {
+        "name": "date",
+        "description": "Timestamp indicating when the newsletter was sent or created."
+      },
+      {
+        "name": "ShopLink",
+        "description": "A direct link to relevant products or offers featured in the newsletter."
+      },
+      {
+        "name": "discount_percentage",
+        "description": "Percentage discount offered on products or services mentioned in the newsletter."
+      },
+      {
+        "name": "promotion_end_date",
+        "description": "Deadline for claiming offers or discounts mentioned in the newsletter."
+      },
+      {
+        "name": "new_product",
+        "description": "Name of a new product introduced in the newsletter."
+      },
+      {
+        "name": "CompanyName",
+        "description": "Name and legal details of the company sending the newsletter."
+      }
+    ],
+    "promotion": [
+      {
+        "name": "valid_from",
+        "description": "The date and time when the promotion begins."
+      },
+      {
+        "name": "valid_to",
+        "description": "The date and time when the promotion ends."
+      },
+      {
+        "name": "minimum_purchase",
+        "description": "The minimum purchase amount required to qualify for the promotion."
+      },
+      {
+        "name": "discount_code",
+        "description": "The unique code customers can use to apply the discount at checkout."
+      },
+      {
+        "name": "title",
+        "description": "A brief, descriptive headline for the promotion."
+      },
+      {
+        "name": "merchandise",
+        "description": "The specific merchandise or products that are on promotion."
+      },
+      {
+        "name": "order_qualification",
+        "description": "Any special conditions that must be met to qualify for the promotion (e.g., purchasing a certain number of items)."
+      },
+      {
+        "name": "focus",
+        "description": "A brief description of what the promotion is highlighting or supporting."
+      },
+      {
+        "name": "checkout_link",
+        "description": "The direct link customers can use to apply the discount during checkout."
+      },
+      {
+        "name": "valid_until",
+        "description": "An alternative phrasing of when the promotion ends, often using more natural language."
+      }
+    ],
+    "personal": [
+      {
+        "name": "subject",
+        "description": "The main topic of the email."
+      },
+      {
+        "name": "client",
+        "description": "The person or entity the email is about."
+      },
+      {
+        "name": "lawyer",
+        "description": "The lawyer handling the case or matter."
+      },
+      {
+        "name": "location",
+        "description": "The physical address related to the email's purpose."
+      },
+      {
+        "name": "deadline",
+        "description": "Important dates or timelines mentioned in the email."
+      },
+      {
+        "name": "post_text",
+        "description": "The main body of text in the email."
+      }
+    ],
+    "general": [
+      {
+        "name": "recipient",
+        "description": "Primary recipient of the email."
+      },
+      {
+        "name": "email",
+        "description": "Email address associated with the recipient."
+      },
+      {
+        "name": "subject",
+        "description": "Brief summary of what the email is about."
+      },
+      {
+        "name": "sender",
+        "description": "Entity or individual sending the email."
+      },
+      {
+        "name": "changes_date",
+        "description": "Date when changes referenced in the email will occur."
+      },
+      {
+        "name": "templates_for_energy_efficiency_work",
+        "description": "Specific template(s) related to energy efficiency work mentioned in the email."
+      },
+      {
+        "name": "reward",
+        "description": "Incentive or reward offered for performing an action, if applicable."
+      },
+      {
+        "name": "qualification",
+        "description": "Any conditions or requirements that need to be met to receive a reward or participate in an offer."
+      },
+      {
+        "name": "opt_out_instructions",
+        "description": "Instructions on how to opt out of receiving future emails from the sender."
+      }
+    ],
+    "billing": [
+      {
+        "name": "From",
+        "description": "Email sender's name."
+      },
+      {
+        "name": "To",
+        "description": "Email recipient(s)."
+      },
+      {
+        "name": "Subject",
+        "description": "Brief summary of the email content."
+      },
+      {
+        "name": "PaymentMethod",
+        "description": "Allowed payment methods for the billing."
+      },
+      {
+        "name": "accounts_due_date",
+        "description": "Date by which payment is due."
+      },
+      {
+        "name": "ChargeableCalls",
+        "description": "Explanation of charges for certain calls or services."
+      },
+      {
+        "name": "CompanyName",
+        "description": "The company name associated with the billing."
+      },
+      {
+        "name": "CompanyNumber",
+        "description": "Unique identifier assigned to a company by its government."
+      },
+      {
+        "name": "DirectorResponsibilitiesUrl",
+        "description": "URL providing information about directors' responsibilities."
+      },
+      {
+        "name": "LateFilingPenaltiesUrl",
+        "description": "URL with details on penalties for late filing of accounts."
+      }
+    ],
+    "order_confirmation": [
+      {
+        "name": "order_id",
+        "description": "Unique identifier for the placed order."
+      },
+      {
+        "name": "placed_on",
+        "description": "Timestamp when the order was placed by the customer."
+      },
+      {
+        "name": "total_amount",
+        "description": "Total cost of the order, including taxes and discounts."
+      },
+      {
+        "name": "invoice_id",
+        "description": "Unique identifier for the invoice associated with the order."
+      },
+      {
+        "name": "due_date",
+        "description": "Date by which payment is expected for the order."
+      },
+      {
+        "name": "ShipmentNumber",
+        "description": "Tracking number or identifier for the shipment of ordered items."
+      },
+      {
+        "name": "EstimatedDeliveryTime",
+        "description": "Predicted time window for delivery of the shipped items."
+      },
+      {
+        "name": "DeliveryMethod",
+        "description": "Description of how the order will be delivered, including any special instructions."
+      },
+      {
+        "name": "payment_method",
+        "description": "Payment method used by the customer for the order and any associated charges."
+      }
+    ],
+    "other": [
+      {
+        "name": "subject",
+        "description": "Brief summary of the email's content."
+      },
+      {
+        "name": "recipient",
+        "description": "Primary recipient of the email."
+      },
+      {
+        "name": "sender",
+        "description": "Person or entity sending the email."
+      },
+      {
+        "name": "fca_number_bande_financial",
+        "description": "Financial Conduct Authority number for B&E Financial."
+      },
+      {
+        "name": "transfer_date_planned",
+        "description": "Planned date for business transfer."
+      },
+      {
+        "name": "opt_out_deadline",
+        "description": "Deadline for recipients to opt out of the transfer."
+      },
+      {
+        "name": "business_name",
+        "description": "Name of the business involved in the transfer."
+      },
+      {
+        "name": "fca_number",
+        "description": "Financial Conduct Authority number associated with the business."
+      },
+      {
+        "name": "transition_date",
+        "description": "Actual date when the transition took place."
+      },
+      {
+        "name": "bill_name",
+        "description": "Name of the bill or legislation mentioned in the email."
+      }
+    ],
+    "shipping_update": [
+      {
+        "name": "ShipmentNumber",
+        "description": "Unique identifier for the shipment."
+      },
+      {
+        "name": "DeliveryDate",
+        "description": "The date when the package was delivered or is scheduled to be delivered."
+      },
+      {
+        "name": "SenderCompany",
+        "description": "The company that sent the parcel."
+      },
+      {
+        "name": "DeliveredBy",
+        "description": "The delivery service provider that handled the shipment."
+      },
+      {
+        "name": "ConsignmentNumber",
+        "description": "A secondary identifier for the shipment used by the carrier."
+      },
+      {
+        "name": "PhoneNumberForQueries",
+        "description": "Contact number for inquiries related to the shipment."
+      },
+      {
+        "name": "CompanyNameForQueries",
+        "description": "The company name associated with the contact number for queries."
+      },
+      {
+        "name": "DeliveryTime",
+        "description": "The time when the package was delivered or is scheduled to be delivered."
+      },
+      {
+        "name": "Sender",
+        "description": "The entity that dispatched the parcel."
+      },
+      {
+        "name": "Subject",
+        "description": "A brief summary of the email's content, often indicating the shipment status."
+      }
+    ]
+  }
+}

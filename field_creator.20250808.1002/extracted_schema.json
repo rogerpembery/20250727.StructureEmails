@@ -1,0 +1,90 @@
+{
+  "shared_fields": [
+    {
+      "name": "recipient",
+      "description": "The recipient of the email"
+    },
+    {
+      "name": "sender",
+      "description": "The entity sending the email"
+    },
+    {
+      "name": "sender",
+      "description": "Name of the entity sending the package."
+    },
+    {
+      "name": "recipient",
+      "description": "Name of the person or entity receiving the package."
+    }
+  ],
+  "classifications": {
+    "review_request": [
+      {
+        "name": "subject",
+        "description": "The topic or purpose of the email"
+      },
+      {
+        "name": "review_link",
+        "description": "The URL where the review can be submitted"
+      },
+      {
+        "name": "company_name",
+        "description": "The name of the company associated with the review request"
+      },
+      {
+        "name": "purchase_details",
+        "description": "Details about the purchase, including product, amount paid, and payment date"
+      },
+      {
+        "name": "review_rating",
+        "description": "The rating or feedback being requested from the recipient"
+      },
+      {
+        "name": "email_type",
+        "description": "The type of email (e.g., review invitation)"
+      },
+      {
+        "name": "platform",
+        "description": "The platform where the review will be submitted"
+      },
+      {
+        "name": "contact_information",
+        "description": "Contact details for the sender or associated company, including phone number and address"
+      }
+    ],
+    "shipping_update": [
+      {
+        "name": "parcel_id",
+        "description": "Unique identifier for the parcel in the shipment."
+      },
+      {
+        "name": "delivery_date",
+        "description": "Scheduled date for delivery of the parcel."
+      },
+      {
+        "name": "estimated_delivery_time_start",
+        "description": "Earliest time window for parcel delivery on the scheduled date."
+      },
+      {
+        "name": "estimated_delivery_time_end",
+        "description": "Latest time window for parcel delivery on the scheduled date."
+      },
+      {
+        "name": "delivery_type",
+        "description": "Type of delivery location, e.g., home address, pickup point."
+      },
+      {
+        "name": "parcel_status",
+        "description": "Current status of the shipment (e.g., delivered, in transit)."
+      },
+      {
+        "name": "tracking_link",
+        "description": "URL to track the parcel's progress and history."
+      },
+      {
+        "name": "contact_phone",
+        "description": "Phone number for recipients to use for inquiries about their delivery."
+      }
+    ]
+  }
+}
