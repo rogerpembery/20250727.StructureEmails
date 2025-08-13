@@ -1,0 +1,5 @@
+
+# Security - Sensitive files
+.env
+*.log
+logs/
